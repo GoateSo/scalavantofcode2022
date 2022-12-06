@@ -13,12 +13,11 @@ object Utils:
 
   // modulo using the sign of the divisor
   extension (x : Int) def +% (y : Int) = 
-    val res = x%y
-    if (res != 0 && res.sign != y.sign) then res+y else res
+    Math.floorMod(x, y)
 
   // exponentiation
   extension (n: Double) def **(m: Double) = Math.pow(n, m)
-
+  
   // random string stuff kinda like in lua's string library
   extension (str: String)
     def sub(start: Int, end: Int) = str.substring(start, end)

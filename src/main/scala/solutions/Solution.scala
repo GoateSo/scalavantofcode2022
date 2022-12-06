@@ -1,4 +1,4 @@
 package solutions
 trait Solution(input : Seq[String]):
-    def run() : Unit;
-    def run2() : Unit;
+  def run : Any
+  def run2 : Any

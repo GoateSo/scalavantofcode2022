@@ -3,6 +3,7 @@ import utils.Utils.*
 
 class Day5(input : Seq[String]) extends Solution(input):
   val (fst, snd) = input.span(!_.isEmpty)         // remove empty line w/ pattern matching
+  
   // 1st half, read the stacks of values (every 4th value should either be space or letter)
   val cols = fst.map(_.toIndexedSeq)             // convert to 2d seq of chars
           .columns.drop(1)                       // get the columns, and remove the first (only parens and space) 
@@ -16,7 +17,7 @@ class Day5(input : Seq[String]) extends Solution(input):
             case _ => Nil                          // should never occur
           })
 
-  private def runMoves(dropBlocks: Seq[Char] => Seq[Char]): Seq[Seq[Char]] = {
+  def runMoves(dropBlocks: Seq[Char] => Seq[Char]): Seq[Seq[Char]] = {
     moves.foldLeft(cols)((xs,move) => { // go through each move, keeping track of current stacks, returning finished stacks
       val List(n,c1,c2) = move    
       val (sub, rem) = xs(c1).splitAt(n) // split at the point of removal
@@ -25,9 +26,9 @@ class Day5(input : Seq[String]) extends Solution(input):
     })
   }
   // part 1: 1 at a time (so in reverse order)
-  override def run(): Unit =
-    println(runMoves(_.reverse).map(_.head).mkString)
+  override def run =
+    runMoves(_.reverse).map(_.head).mkString
 
   // part 2: all at once (so in normal order)
-  override def run2(): Unit = 
-    println(runMoves(identity).map(_.head).mkString)
+  override def run2 = 
+    runMoves(identity).map(_.head).mkString
