@@ -10,8 +10,8 @@ class Day6(input : Seq[String]) extends Solution(input):
     fst + len
 
   // first occurence of 4 unique chars
-  override def run(): Unit =
-    println(first(4))
+  override def run =
+    first(4)
   // first occurence of 14 unique chars
-  override def run2(): Unit = 
-    println(first(14))
+  override def run2  = 
+    first(14)
