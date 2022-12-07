@@ -67,10 +67,13 @@ object Utils:
     def splitBy(v : T): Seq[Seq[T]] = splitBy(_ == v)
     // distinct, but not an iterator (so i don't forget the name)
     def unique = strs.distinct.toSeq
+
   extension [T](grid: Seq[Seq[T]])
-    def columns: Seq[Seq[T]] =
-      for i <- 0 until grid(0).length yield grid.map(_(i))
-      
+    def columns = grid.transpose
+  
+  extension (lines: Seq[String])
+    def chrCols = lines.map(_.toSeq).transpose
+    
   // shorthand for println
   inline def print(xs: Any*) =
     println(xs.mkString(" "))
