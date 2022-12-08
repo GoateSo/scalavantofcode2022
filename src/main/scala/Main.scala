@@ -1,19 +1,19 @@
-import java.io._
-import scala.io._
 import solutions._
-
-import utils.Utils.*
+import os._
 
 @main def main: Unit =
-  println("real")
-  val input2 = Source.fromFile("input.txt").getLines.toList
-  val sol2 = new Day7(input2)
-  println(sol2.run)
-  println(sol2.run2)
+  val x = println(pwd)
+  val realInputs = os.read.lines(pwd/"input.txt")
+  val sampleInputs = os.read.lines(pwd/"sample.txt")
 
-  println("samples:")
-  val input = Source.fromFile("sample.txt").getLines.toList
-  val sol = new Day7(input)
-  println(sol.run)
-  println(sol.run2)
+  os.write.over(pwd/"POutput.txt", "")
   
+  println("real")
+  val s = Day7(realInputs)
+  println(s.run)
+  println(s.run2)
+  utils.Utils.write("~".repeat(120))
+  println("sample")
+  val s2 = Day7(sampleInputs)
+  println(s.run)
+  println(s.run2)

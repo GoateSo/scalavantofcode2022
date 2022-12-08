@@ -4,12 +4,14 @@ import scala.math._
 import scala.util.matching._
 import scala.util.matching.Regex.Match
 import scala.collection.mutable.{ArrayBuffer, HashMap}
+import os._
 
 /** collection of useful utility methods & shorthands
   */
 object Utils:
   // alphanbetic regex shorthand
   val al = "[a-zA-Z]".r
+
 
   // modulo using the sign of the divisor
   extension (x : Int) def +% (y : Int) = 
@@ -74,15 +76,20 @@ object Utils:
   extension (lines: Seq[String])
     def chrCols = lines.map(_.toSeq).transpose
     
-  // shorthand for println
-  inline def print(xs: Any*) =
-    println(xs.mkString(" "))
+  // print to folder; reduce clutter
+  inline def write(xs : Any*) = 
+    os.write.append(pwd/"POutput.txt", (xs mkString " ") + "\n")
 
-  def gcd(x: Int, y: Int): Int = 
+  def euclid(x: Int, y: Int): Int = 
     if y == 0 
       then x
-      else gcd(y, x % y)
+      else euclid(y, x % y)
 
+  extension (xs : List[Int])
+    def gcd = xs.reduce(euclid)
+    def median = xs.sorted.apply(xs.size/2)
+    def mean = xs.sum/xs.size.toDouble
+    
   //shorthands
   extension (i: Int)
     def toBin = i.toBinaryString
