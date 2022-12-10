@@ -5,6 +5,7 @@ import scala.util.matching._
 import scala.util.matching.Regex.Match
 import scala.collection.mutable.{ArrayBuffer, HashMap}
 import os._
+import scala.compiletime.ops.string
 
 /** collection of useful utility methods & shorthands
   */
@@ -32,6 +33,9 @@ object Utils:
     def toLong(radix: Int) = java.lang.Long.parseLong(str, radix)
     def toInt = Integer.parseInt(str)
     def toInt(radix: Int) = Integer.parseInt(str, radix)
+
+    def find(reg : Regex): String = reg.findFirstIn(str).get
+    def findOrElse(reg : Regex, back : String): String = reg.findFirstIn(str).getOrElse(back)
     def gsub(reg: Regex, f: Seq[String] => String) =
       reg.replaceAllIn(
         str,
