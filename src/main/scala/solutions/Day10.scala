@@ -21,6 +21,6 @@ class Day10(input : Seq[String]) extends Solution(input) {
     for i <- 0 until 240 do
       if (i%40 == 0) then
         sb.append("\n")
-      sb.append(if Math.abs(ts(i)-i%40) <= 1 then "*" else".")
+      sb.append(if Math.abs(ts(i)-i%40) <= 1 then "#" else".")
     sb.toString.trim
 }
