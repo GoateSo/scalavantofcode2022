@@ -12,7 +12,9 @@ import os._
   val s = Day9(realInputs)
   println(s.run)
   println(s.run2)
+
   utils.Utils.write("~".repeat(120))
+
   println("sample")
   val s2 = Day9(sampleInputs)
   println(s2.run)

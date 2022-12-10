@@ -17,6 +17,10 @@ object Utils:
   extension (x : Int) def +% (y : Int) = 
     Math.floorMod(x, y)
 
+
+  extension [T,U](p : (T,U))
+    def bimap(f : T => U, g : U => T) = (f(p._1), g(p._2))
+
   // exponentiation
   extension (n: Double) def **(m: Double) = Math.pow(n, m)
   
