@@ -2,7 +2,7 @@ package solutions
 import utils.Utils.*
 
 class Day03(inputs : Seq[String]) extends Solution(inputs):
-  // priority function
+  // priority function (a-z = 1-26, A-Z = 27-52)
   def pri(v : Char) = 
     if v.isLower then v - 'a' + 1 else v - 'A' + 27
     
