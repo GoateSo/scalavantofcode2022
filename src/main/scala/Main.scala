@@ -9,11 +9,13 @@ import os._
   os.write.over(pwd/"POutput.txt", "")
   
   println("real")
-  val s = Day7(realInputs)
+  val s = Day9(realInputs)
   println(s.run)
   println(s.run2)
+
   utils.Utils.write("~".repeat(120))
+
   println("sample")
-  val s2 = Day7(sampleInputs)
-  println(s.run)
-  println(s.run2)
+  val s2 = Day9(sampleInputs)
+  println(s2.run)
+  println(s2.run2)
