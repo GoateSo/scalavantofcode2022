@@ -2,7 +2,7 @@ package solutions
 import scala.collection.mutable.{HashSet, ArraySeq}
 import utils.Utils.*
 
-class Day9(input : Seq[String]) extends Solution(input):
+class Day09(input : Seq[String]) extends Solution(input):
   val dirs = Map("R" -> (1, 0), "L" -> (-1, 0), "U" -> (0, 1), "D" -> (0, -1))
   val inputs = input.map(_.split(" ")).map(x => (dirs(x(0)), x(1).toInt))
 

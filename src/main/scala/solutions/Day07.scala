@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day7(input : Seq[String]) extends Solution(input):
+class Day07(input : Seq[String]) extends Solution(input):
   // input : cmds
   val tree = input.filter(!_.startsWith("$ ls"))
     .foldLeft(("./", Map[String, List[Any]]())){

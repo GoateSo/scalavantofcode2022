@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day4(inputs : Seq[String]) extends Solution(inputs):
+class Day04(inputs : Seq[String]) extends Solution(inputs):
   // parse inputs
   val xs = inputs.map(_.split(",").map(_.split("-").map(_.toInt).toList).toList)
   override def run = 

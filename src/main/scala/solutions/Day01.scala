@@ -1,6 +1,6 @@
 package solutions
 import utils.Utils.*
-class Day1(input : Seq[String]) extends Solution(input):
+class Day01(input : Seq[String]) extends Solution(input):
   // split by empty lines and map to sum of calories
   val elves = input.splitBy(_.isEmpty).map(_.map(_.toInt).sum)
 

@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day6(input : Seq[String]) extends Solution(input):
+class Day06(input : Seq[String]) extends Solution(input):
   val xs = input(0).toList
 
   def first(len : Int) = 

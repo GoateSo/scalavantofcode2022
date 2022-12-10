@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day2(input : Seq[String]) extends Solution(input):
+class Day02(input : Seq[String]) extends Solution(input):
   val inputs = input.map(_.strip).toList
 
   val xs = inputs.map(str => 
