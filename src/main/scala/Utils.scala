@@ -169,8 +169,6 @@ object Utils:
       adj(from) = adj.getOrElse(from, Set.empty[(T, Double)]) + ((to, weight))
     def addEdges(from: T, tos: Seq[(T, Double)]) =
       adj(from) = adj.getOrElse(from, Set.empty[(T, Double)]) ++ tos
-      def addEdges(from: T, tos: Seq[T]) =
-      adj(from) = adj.getOrElse(from, Set.empty[(T, Double)]) ++ tos.map((_, 1.0))
     def bfs(start: T, f : T => Unit): Unit =
       import scala.collection.mutable.{Set, Queue}
       var visited = Set(start)
@@ -218,7 +216,7 @@ object Utils:
             prevs(e) = n
             pq += (e, newDist)
       (Double.MaxValue, Nil)
-    override def toString(): String = adj.toString
+    override def toString(): String = adj.mkString("\n")
   }
   def toDigraph[T](arr : Array[Array[T]]): Digraph[T] =
     // constuct digraph between array elements and their 4 neighors in grid
@@ -248,3 +246,25 @@ object Utils:
         ).flatten
         g.addEdges(n, neighs)
     g
+
+  def plot(pts : (Int, Int)*): Unit =
+    val x1 = Math.min(pts.map(_._1).min,-2)
+    val y1 = Math.min(pts.map(_._2).min,-2)
+    val x2 = Math.max(pts.map(_._1).max,2)
+    val y2 = Math.max(pts.map(_._2).max,2)
+    
+    val npts = pts.toSet
+    var sb = new StringBuilder()
+    for y <- y1 to y2 do
+      for x <- x1 to x2 do
+        if npts.contains((x, y)) then sb ++= pts.count(_ == (x, y)).toString
+        else if x == 0 && y == 0 then sb += '+'
+        else if x == 0 then sb += '|'
+        else if y == 0 then sb += '-'
+        else sb += ' '
+      sb += '\n'
+    // println(sb.toString)
+    write(sb.toString)
+    // val plt = new Plot()
+    // plt.addLinePlot("plot", x.toArray, y.toArray)
+    // plt.show()

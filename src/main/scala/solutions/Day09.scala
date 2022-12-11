@@ -29,6 +29,7 @@ class Day09(input : Seq[String]) extends Solution(input):
               ret :: acc // add new node to accumulator
             }.reverse    // reverse to get the correct order (since I prepended, not appended)
         }
+        xs.foreach(plot)
         // return the last node, add every concluding node to the visited set
         (xs.last, vset ++ xs.map(_.last))
     }._2.size // return the size of the visited set
@@ -39,8 +40,6 @@ class Day09(input : Seq[String]) extends Solution(input):
 
   override def run2: Any = 
     simulate(10)
-
-
 
   /* 1st imperative version:
   val ps = input.map(_.split(" ")).map(x => (dmap(x(0)), x(1).toInt))
