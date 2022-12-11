@@ -1,17 +1,11 @@
 package solutions
 import utils.Utils.*
-import scala.collection.mutable.{ListBuffer, ArraySeq, Buffer}
+import scala.collection.mutable.{ListBuffer, ArraySeq}
 // import scala.collection.SeqFactory.Delegate.apply
 
-class Day11(input : Seq[String]) extends Solution(input) {
-  case class Monkey(
-    start : ListBuffer[Long],
-    op : Long => Long,
-    m : Long,
-    t : Int,
-    f : Int
-  ) {}
-  val blks = input.splitBy(_.isEmpty).map(_.map(_.strip()))
+class Day11(input : Seq[String]) extends Solution(input):
+  case class Monkey(start : Seq[Long], op : Long => Long, m : Long, t : Int, f : Int) {}
+  val blks = input.map(_.strip).splitBy(_.isEmpty)
   val ops = Map[String, (Long, Long) => Long](
     "+" -> (_ + _),
     "*" -> (_ * _),
@@ -22,33 +16,52 @@ class Day11(input : Seq[String]) extends Solution(input) {
     val op = ops(fn(0))
     val truOp = fn(1) match 
       case v if v == "old" => (x : Long) => op(x, x)
-      case v => (x : Long) => op(fn(1).toLong, x)
-    val m = (monk(3).drop("Test: divisible by ".size).toLong)
-    val tcond = monk(4).drop("If true: throw to monkey ".size).toInt
-    val fcond = monk(5).drop("If false: throw to monkey ".size).toInt
-    Monkey(starts.to(ListBuffer), truOp, m, tcond, fcond)
-    // (starts, truOp, m, tcond, fcond)
-
-  val mod = mks.map(_.m).product
+      case n => (x : Long) => op(n.toLong, x)
+    Monkey(
+      starts,
+      truOp, 
+      monk(3).find("\\d+".r).toLong, 
+      monk(4).find("\\d+".r).toInt, 
+      monk(5).find("\\d+".r).toInt
+    )
 
   def simulate(n : Int, fn : Long => Long): Long = 
-    var values = ArraySeq.from(
-      mks.map(_.start.map(identity))
-    )
-    val levels = Array.fill(values.size)(0l)
-    for a <- 0 until n do
-      for i <- 0 until values.size do
-        val vs = values(i)
-        val Monkey(_, op, m, t, f) = mks(i)
-        levels(i) += vs.size
-        for v <- vs do 
-          val nv = fn(op(v))
-          values(if nv % m == 0 then t else f) += nv
-        values(i).clear()
-    levels.sorted.reverse.take(2).product
+    var (lvls, res) = (0 until n).foldLeft(
+      IndexedSeq.fill(mks.size)(0l),
+      mks.map(_._1).toIndexedSeq
+    ){
+      (acc, l) => 
+        (0 until mks.size).foldLeft(acc){
+          case ((nlvls, nvals), i) => 
+            val Monkey(_, op, m, t, f) = mks(i)
+            val vs = nvals(i)
+            val (tvs, fvs) = vs.map(fn compose op).partition(_ % m == 0)
+            val nvs = nvals.updated(i, List.empty)
+              .updated (t, nvals(t) ++ tvs)
+              .updated(f, nvals(f) ++ fvs)
+            (nlvls.updated(i, nlvls(i) + vs.size), nvs)
+        }
+    }
+    lvls.sorted.reverse.take(2).product
   override def run: Any = 
     simulate(20, _ / 3)
 
   override def run2: Any = 
-    simulate(10000, _ % mod)
-}
+    simulate(10000, _ % mks.map(_.m).product)
+
+  // original sol:
+  // def simulate(n : Int, fn : Long => Long): Long = 
+  //   var values = scala.collection.mutable.ArraySeq.from(
+  //     mks.map(xs => ListBuffer.from(xs.start.map(identity)))
+  //   )
+  //   val levels = Array.fill(values.size)(0l)
+  //   for a <- 0 until n do
+  //     for i <- 0 until values.size do
+  //       val vs = values(i)
+  //       val Monkey(_, op, m, t, f) = mks(i)
+  //       levels(i) += vs.size
+  //       for v <- vs do 
+  //         val nv = fn(op(v))
+  //         values(if nv % m == 0 then t else f) += nv
+  //       values(i).clear()
+  //   levels.sorted.reverse.take(2).product
