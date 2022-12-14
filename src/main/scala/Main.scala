@@ -12,7 +12,7 @@ import utils.Utils
   os.write.over(pwd/"POutput.txt", "")
 
   println(emph("[sample]"))
-  val s2 = Day13(sampleInputs)
+  val s2 = Day14(sampleInputs)
   println(s"${GREEN}part 1: ${RESET}")
   println(ans(s2.run.toString))
   Utils.write("+".repeat(120))
@@ -22,7 +22,7 @@ import utils.Utils
   Utils.write("~".repeat(120))
 
   println(emph("[real]"))
-  val s = Day13(realInputs)
+  val s = Day14(realInputs)
   println(s"${GREEN}part 1: ${RESET}")
   println(ans(s.run.toString))
   Utils.write("+".repeat(120))
