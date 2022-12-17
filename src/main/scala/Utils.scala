@@ -217,6 +217,8 @@ object Utils:
             pq += (e, newDist)
       (Double.MaxValue, Nil)
     override def toString(): String = adj.mkString("\n")
+
+    // def pathNeg(start : T, end : T)
   }
   def toDigraph[T](arr : Array[Array[T]]): Digraph[T] =
     // constuct digraph between array elements and their 4 neighors in grid
@@ -248,20 +250,20 @@ object Utils:
     g
 
   def plot(pts : (Int, Int)*): Unit =
-    val x1 = Math.min(pts.map(_._1).min,-2)
-    val y1 = Math.min(pts.map(_._2).min,-2)
-    val x2 = Math.max(pts.map(_._1).max,2)
+    val x1 = Math.min(pts.map(_._1).min,-1)
+    val y1 = Math.min(pts.map(_._2).min,-1)
+    val x2 = Math.max(pts.map(_._1).max,6)
     val y2 = Math.max(pts.map(_._2).max,2)
     
     val npts = pts.toSet
     var sb = new StringBuilder()
-    for y <- y1 to y2 do
-      for x <- x1 to x2 do
-        if npts.contains((x, y)) then sb ++= pts.count(_ == (x, y)).toString
-        else if x == 0 && y == 0 then sb += '+'
-        else if x == 0 then sb += '|'
-        else if y == 0 then sb += '-'
-        else sb += ' '
+    for y <- y2 to y1 by -1 do
+      for x <- x1 to x2  do
+        if npts.contains((x, y)) then sb += '#'//pts.count(_ == (x, y)).toString
+        // else if x == -1 && y == 0 then sb += '+'
+        // else if x == -1 || x == 7 then sb += '|'
+        // else if y == 0 then sb += '-'
+        else sb += '.'
       sb += '\n'
     // println(sb.toString)
     write(sb.toString)
