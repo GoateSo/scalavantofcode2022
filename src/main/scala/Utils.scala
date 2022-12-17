@@ -205,9 +205,7 @@ object Utils:
       dist(start) = 0
       while pq.arr.length > 1 do
         val (n, nDist) = pq.pop
-        println(dist)
         if n == end then 
-          
           return (nDist, getPath(n))
         for (e, w) <- adj(n) do
           val newDist = nDist + w
@@ -260,9 +258,9 @@ object Utils:
     for y <- y2 to y1 by -1 do
       for x <- x1 to x2  do
         if npts.contains((x, y)) then sb += '#'//pts.count(_ == (x, y)).toString
-        // else if x == -1 && y == 0 then sb += '+'
-        // else if x == -1 || x == 7 then sb += '|'
-        // else if y == 0 then sb += '-'
+        else if x%5==0 && y%5==0 then sb += '+'
+        else if x%5==0 || x%5==0 then sb += '|'
+        else if y == 0 then sb += '-'
         else sb += '.'
       sb += '\n'
     // println(sb.toString)

@@ -24,9 +24,22 @@ class Day16 (input : Seq[String], isSample : Boolean = false) extends Solution(i
     // maximize flow rate over time
     // find nodes with positive flow rate 
     val pfr = xs.filter(_._2 > 0)
-    
     // start at valve AA
     val start = "AA"
+    // find shortest paths from each node to every other node
+    val paths = for 
+      (x, _, _) <- pfr
+      (y, _, _) <- pfr
+      if x != y
+    yield (x,y,graph.path(x, y)._1)
+    write(paths.groupBy(_._1).mapValues { xs => 
+        xs map ((a,b,c) => (b,c))
+      }.mkString("\n")
+    )
+    val spaths = pfr.map((a,_,_) => graph.path(start, a))
+    write(spaths)
+    // completely search thru all combos of paths
+    
   override def run2: Any = 
     
     ()

@@ -57,7 +57,7 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
       a += 1
       val ymax = ts.maxBy(_._2)._2
       // caveman brain cycling
-      val tops = ts.filter(_._2 >= ymax - 100).map((a,b) => (a, b - ymax + 100))
+      val tops = ts.filter(_._2 >= ymax - 28).map((a,b) => (a, b - ymax + 28))
       if seen.contains(tops) then
         val (pa, pymax) = seen(tops)
         val da = a - pa           // difference in index
@@ -66,9 +66,6 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
         cycleSum += reps * dymax
         a += reps * da
       seen(tops) = (a, ymax)
-      if ts.size > 100 then // ooga booga culling
-        val ymax = ts.maxBy(_._2)._2
-        ts.filterInPlace(_._2 >= ymax - 60)
     ts.map(_._2).max + cycleSum
 
   override def run: Any = 
@@ -105,6 +102,4 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
 
   override def run2: Any = 
     simulate(1000000000000l)
-
-  
 }
