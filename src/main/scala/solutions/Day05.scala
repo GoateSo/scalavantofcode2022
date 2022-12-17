@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day05(input : Seq[String]) extends Solution(input):
+class Day05(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   val (fst, snd) = input.span(!_.isEmpty)  // remove empty line w/ pattern matching
   // 1st half, read the stacks of values (every 4th value should either be space or letter)
   val cols = fst.map(_.toIndexedSeq)       // convert to 2d seq of chars

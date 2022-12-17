@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day09(input : Seq[String]) extends Solution(input):
+class Day09(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // direction mapping & input preprocessing
   val dirs = Map("R" -> (1, 0), "L" -> (-1, 0), "U" -> (0, 1), "D" -> (0, -1))
   val inputs = input.map(_.split(" ")).map(x => (dirs(x(0)), x(1).toInt))

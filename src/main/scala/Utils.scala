@@ -34,7 +34,7 @@ object Utils:
     def toInt = Integer.parseInt(str)
     def toInt(radix: Int) = Integer.parseInt(str, radix)
 
-    def find(reg : Regex): String = reg.findFirstIn(str).get
+    def find(reg : Regex): Seq[String] = reg.findFirstMatchIn(str).map(_.subgroups).getOrElse(Seq())
     def findOrElse(reg : Regex, back : String): String = reg.findFirstIn(str).getOrElse(back)
     def gsub(reg: Regex, f: Seq[String] => String) =
       reg.replaceAllIn(

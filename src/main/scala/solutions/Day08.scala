@@ -1,6 +1,6 @@
 package solutions
 
-class Day08(input : Seq[String]) extends Solution(input):
+class Day08(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   val ts = input.toIndexedSeq.map(_.toIndexedSeq)
   val xs = 
     for i <- 0 until ts.size yield

@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day10(input : Seq[String]) extends Solution(input):
+class Day10(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // hacky; add noop to addx operation to make it 2 cycles
   val is = input flatMap ( v => 
     if v == "noop" then Seq(v) else Seq("noop", v)

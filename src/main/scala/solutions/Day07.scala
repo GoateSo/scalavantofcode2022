@@ -1,7 +1,7 @@
 package solutions
 import utils.Utils.*
 
-class Day07(input : Seq[String]) extends Solution(input):
+class Day07(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // input : cmds
   // build adjlist from cmds (completely ignoring the "ls" commands)
   val tree = input.filter(!_.startsWith("$ ls"))

@@ -1,12 +1,12 @@
 package solutions
 import utils.Utils.*
 
-class Day03(inputs : Seq[String]) extends Solution(inputs):
+class Day03(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // priority function (a-z = 1-26, A-Z = 27-52)
   def pri(v : Char) = 
     if v.isLower then v - 'a' + 1 else v - 'A' + 27
     
-  val lines = inputs.toList.map(_.strip)
+  val lines = input.toList.map(_.strip)
 
   override def run = 
     lines.map(s => 

@@ -2,7 +2,7 @@ package solutions
 import utils.Utils.*
 import scala.collection.mutable.{ListBuffer, ArraySeq}
 
-class Day11(input : Seq[String]) extends Solution(input):
+class Day11(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // seperate into blocks for each monkey
   val blks = input.map(_.strip).splitBy(_.isEmpty)
   // create operation mapping
@@ -20,9 +20,9 @@ class Day11(input : Seq[String]) extends Solution(input):
       //starting sequence
       monk(1).drop("Starting items: ".size).split(", ").map(x => x.toLong).toList,
       truOp,                          // operation
-      monk(3).find("\\d+".r).toLong,  // divisible by <m>
-      monk(4).find("\\d+".r).toInt,   // index if true
-      monk(5).find("\\d+".r).toInt    // index if false
+      monk(3).find("\\d+".r).head.toLong,  // divisible by <m>
+      monk(4).find("\\d+".r).head.toInt,   // index if true
+      monk(5).find("\\d+".r).head.toInt    // index if false
     )
 
   def simulate(n : Int, fn : Long => Long): Long = 

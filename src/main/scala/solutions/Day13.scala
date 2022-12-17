@@ -2,7 +2,7 @@ package solutions
 import utils.Utils.*
 import scala.collection.mutable.{ListBuffer}
 
-class Day13(input : Seq[String]) extends Solution(input):
+class Day13(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // how many pairs in right order
   val pairs =  input.splitBy(_.isEmpty)
 

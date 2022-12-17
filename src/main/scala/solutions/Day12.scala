@@ -2,7 +2,7 @@ package solutions
 import utils.Utils.*
 import scala.collection.mutable.{ListBuffer, ArraySeq, HashSet}
 
-class Day12(input : Seq[String]) extends Solution(input):
+class Day12(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   val ys = input.toArray.map(_.toArray)
   var strt = (0,0)
   var end = (0,0)

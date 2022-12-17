@@ -3,7 +3,7 @@ import utils.Utils.*
 import scala.collection.mutable.{ListBuffer}
 import scala.util.control.NonLocalReturns.*
 
-class Day14(input : Seq[String]) extends Solution(input) {
+class Day14(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample) {
   val paths = input.map( s =>
     s.split(" -> ").map(s2 => 
       val v2 = s2.strip().split(",")

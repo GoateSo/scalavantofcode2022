@@ -1,9 +1,9 @@
 package solutions
 import utils.Utils.*
 
-class Day04(inputs : Seq[String]) extends Solution(inputs):
+class Day04(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // parse inputs
-  val xs = inputs.map(_.split(",").map(_.split("-").map(_.toInt).toList).toList)
+  val xs = input.map(_.split(",").map(_.split("-").map(_.toInt).toList).toList)
   override def run = 
     xs count { // filter for those that are totally contained
       case List(List(a,b),List(x,y)) => 
