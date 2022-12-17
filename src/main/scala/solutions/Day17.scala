@@ -2,7 +2,9 @@ package solutions
 
 import utils.Utils.*
 import scala.collection.mutable.{HashSet, HashMap}
-import os.group.set
+
+
+// tryna make this functional might be a nightmare
 class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample) {
 
   // shapes as offsets
@@ -22,14 +24,13 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
 
   // integrate part 2 solution into both
   def simulate(runs : Long): Long = 
+    // simulate tetraminos = 
     val ts = HashSet[(Int,Int)]()
-    // simulate tetraminos
     var i = 0
     var a = 0l
     // sum of cycles in simulation; separate from non-cyclic portion
     var cycleSum = 0l
     val seen = HashMap[HashSet[(Int,Int)], (Long, Long)]()
-    println(os.size)
     while a < runs do
       var curs = shapes((a % shapes.length).toInt)
       val maxy = ts.maxByOption(_._2).map(_._2).getOrElse(0)
@@ -37,20 +38,21 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
       var x = 2
       var canpush, canfall = true
       while 
+        // push
         val nx = x + os(i % os.length)
-        val nv = curs.map((a,b) => (a + nx, b + y))
-        canpush = nv.forall(!ts.contains(_))
-          && nv.forall((a,b) => a >= 0 && a <= 6)
-        if canpush then
-          x = nx
+        val nv = for (a,b) <- curs yield (a + nx, b + y)
+        canpush = nv.forall((a,b) => !ts.contains(a,b) && a >= 0 && a <= 6) 
+        if canpush then x = nx
+        // drop
         val ny = y - 1
-        val nv2 = curs.map((a,b) => (a + x, b + ny))
-        canfall = nv2.forall(!ts.contains(_)) && nv2.forall((a,b) => b >= 1)
-        if canfall then
-          y = ny
+        val nv2 = for (a,b) <- curs yield (a + x, b + ny)
+        canfall = nv2.forall((a,b) => !ts.contains(a,b) && b >= 1) 
+        if canfall then y = ny
+        // increment and check whether it's at rest
         i+=1
         canfall 
       do {}
+      // add tetramino to set
       ts.addAll(curs.map((a,b) => (a + x, b + y)))
       a += 1
       val ymax = ts.maxBy(_._2)._2
