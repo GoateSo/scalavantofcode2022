@@ -4,10 +4,10 @@ lazy val root = project
   .in(file("."))
   .settings(
     name := "scalavantofcode2022",
-    version := "0.1.0-SNAPSHOT",
+
+    run / fork := true,
 
     scalaVersion := scala3Version,
 
-    libraryDependencies += "org.scalameta" %% "munit" % "0.7.29" % Test,
     libraryDependencies += "com.lihaoyi" %% "os-lib" % "0.9.0"
   )
