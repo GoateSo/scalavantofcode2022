@@ -2,7 +2,7 @@ package solutions
 import utils.Utils.*
 import scala.collection.mutable.Stack
 
-class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample) {
+class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   val poses = input.map(_.split(",").toSeq.map(_.toInt)).toSet
 
   val mx = poses.map(_(0)).max
@@ -23,13 +23,12 @@ class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(in
       IndexedSeq(x,y,z-1)
     )
 
-  var init = 0
-  for x <- mix to mx do
-    for y <- miy to my do
-      for z <- miz to mz do
-        if poses.contains(Seq(x,y,z)) then
-          // check number of non- neighboring nodes, and add  
-          init += neighbors(x,y,z).count(x => !poses.contains(x))
+  var init = (for 
+    x <- mix to mx
+    y <- miy to my
+    z <- miz to mz
+    if poses.contains(Seq(x,y,z)) 
+  yield neighbors(x,y,z).count(x => !poses.contains(x))).sum
 
   val grid = Array.fill(mx+1,my+1,mz+1)(0)
   
@@ -39,7 +38,7 @@ class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(in
   def dfs(x : Int, y : Int, z : Int) : Unit =
     var stack = Stack[(Int,Int,Int)]()
     stack.push((x,y,z))
-    while !stack.isEmpty do
+    while stack.nonEmpty do
       val (x,y,z) = stack.pop()
       if grid(x)(y)(z) == 0 then
         grid(x)(y)(z) = 2
@@ -49,21 +48,21 @@ class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(in
         do stack.push((a,b,c))
   override def run: Any = 
     init
+    
   override def run2: Any = 
     var rem = 0
+
     for x <- mix to mx 
         y <- mix to my 
         z <- mix to mz 
         if x == mix || y == miy || z == miz || x == mx || y == my || z == mz
         if grid(x)(y)(z) == 0
     do dfs(x,y,z)
-    for 
+
+    val xs = for 
       x <- mix+1 to mx-1
       y <- miy+1 to my-1
       z <- miz+1 to mz-1 
       if grid(x)(y)(z) == 0
-    do rem += neighbors(x,y,z).count{ case Seq(x,y,z) => 
-        grid(x)(y)(z) == 1 
-      }
-    init-rem
-}
+    yield neighbors(x,y,z).count{ case Seq(x,y,z) => grid(x)(y)(z) == 1}
+    init - xs.sum
