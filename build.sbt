@@ -9,5 +9,6 @@ lazy val root = project
 
     scalaVersion := scala3Version,
 
+    scalacOptions ++= Seq("-J-Xss200m"),
     libraryDependencies += "com.lihaoyi" %% "os-lib" % "0.9.0"
   )

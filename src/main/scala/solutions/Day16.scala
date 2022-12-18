@@ -37,9 +37,8 @@ class Day16 (input : Seq[String], isSample : Boolean = false) extends Solution(i
       val nflow = flow + rate
       val on2 = on + cur
       val nrate = rate + rates(cur)
-      val adjs = dists(cur).filter{ 
-        case (s,l) 
-          => !on(s) && minutes > l+1
+      val adjs = dists(cur).filter { 
+        case (s,l) => !on(s) && minutes > l+1
       }
       if adjs.isEmpty then
         nflow + nrate * nmin
