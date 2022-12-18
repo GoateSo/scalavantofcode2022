@@ -14,13 +14,13 @@ class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(in
   val miz = poses.map(_(2)).min
 
   def neighbors(x : Int, y : Int, z : Int) = 
-    IndexedSeq(
-      IndexedSeq(x+1,y,z),
-      IndexedSeq(x-1,y,z),
-      IndexedSeq(x,y+1,z),
-      IndexedSeq(x,y-1,z),
-      IndexedSeq(x,y,z+1),
-      IndexedSeq(x,y,z-1)
+    Seq(
+      Seq(x+1,y,z),
+      Seq(x-1,y,z),
+      Seq(x,y+1,z),
+      Seq(x,y-1,z),
+      Seq(x,y,z+1),
+      Seq(x,y,z-1)
     )
 
   var init = (for 
@@ -48,7 +48,7 @@ class Day18(input : Seq[String], isSample : Boolean = false) extends Solution(in
         do stack.push((a,b,c))
   override def run: Any = 
     init
-    
+
   override def run2: Any = 
     var rem = 0
 

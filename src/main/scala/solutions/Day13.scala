@@ -34,33 +34,23 @@ class Day13(input : Seq[String], isSample : Boolean = false) extends Solution(in
       xs.map(parse).toList
   
   def isGood(xs : List[Any], ys : List[Any]): (Boolean, Boolean) = 
-    val ret = (xs, ys) match
+    (xs, ys) match
       case (Nil, Nil) => (true, false)
       case (Nil, _) => (true, true)
       case (_, Nil) => (false, true)
       case (x :: xs, y :: ys) =>
-        val r = (x, y) match
+        (x, y) match
           case (a : Int, b : Int) => 
             if a == b then isGood(xs, ys) else 
               (a < b, true)
-          case (a : List[Any], b : List[Any]) => 
-            val (i, e) = isGood(a, b)
+          case (a, b) =>  
+            val (i, e) = (a, b) match 
+              case (a : List[Any], b : List[Any]) => isGood(a, b)
+              case (a : List[Any], b : Int) => isGood(a, List(b))
+              case (a : Int, b : List[Any]) => isGood(List(a), b)
             if e then (i, e) else 
               val (i2, e2) = isGood(xs, ys)
               (i && i2, e2)
-          case (a : Int, b : List[Any]) => 
-            val (i, e) = isGood(List(a), b)
-            if e then (i, e) else 
-              val (i2, e2) = isGood(xs, ys)
-              (i && i2, e2)
-          case (a : List[Any], b : Int) =>  
-            val (i, e) = isGood(a, List(b))
-            if e then (i, e) else 
-              val (i2, e2) = isGood(xs, ys)
-              (i && i2, e2)
-          case _ => (false, true)
-        r
-    ret
   
   override def run: Any = 
     // write(parse("[1,2,3]"))
@@ -69,9 +59,8 @@ class Day13(input : Seq[String], isSample : Boolean = false) extends Solution(in
         val v = ls.map(s => parse(s.toSeq))
         (v.head, v.last)
     )
-    val ys = xs.zipWithIndex.filter(x => 
-      val v = isGood(x._1._1, x._1._2)
-      v._1
+    val ys = xs.zipWithIndex.filter((a,b) => 
+      isGood(a._1, a._2)._1
     )
     ys.map(_._2+1).sum
 
@@ -82,14 +71,7 @@ class Day13(input : Seq[String], isSample : Boolean = false) extends Solution(in
     ).flatten
     // write( xs mkString "\n")
     
-    val sorted = xs.sortWith(
-      (a, b) => 
-        val (i, e) = isGood(a, b)
-        if e then i else 
-          val (i2, e2) = isGood(b, a)
-          !i2
-    ) 
+    val sorted = xs.sortWith(isGood(_, _)._1)
     val a = sorted.indexOf(List(List(2))) + 1
     val b = sorted.indexOf(List(List(6))) + 1
-    write(a,b)
     a * b

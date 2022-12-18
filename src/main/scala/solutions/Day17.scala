@@ -5,8 +5,7 @@ import scala.collection.mutable.{HashSet, HashMap}
 
 
 // tryna make this functional might be a nightmare
-class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample) {
-
+class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(input,isSample):
   // shapes as offsets
   val shapes = Array(
     List((0,0),(1,0),(2,0),(3,0)), //-
@@ -70,6 +69,11 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
 
   override def run: Any = 
     simulate(2022)
+
+  override def run2: Any = 
+    simulate(1000000000000l)
+
+
     // original tetramino simulation code (part 1)
     // val ts = HashSet[(Int,Int)]()
     // // simulate tetraminos
@@ -99,7 +103,3 @@ class Day17 (input : Seq[String], isSample : Boolean = false) extends Solution(i
     //   do {}
     //   ts.addAll(curs.map((a,b) => (a + x, b + y)))
     // ts.map(_._2).max
-
-  override def run2: Any = 
-    simulate(1000000000000l)
-}

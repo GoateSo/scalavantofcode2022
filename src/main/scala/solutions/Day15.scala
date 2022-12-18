@@ -28,16 +28,17 @@ class Day15(input : Seq[String], isSample : Boolean = false) extends Solution(in
       ints += ((curl, curr))
     ints
 
-  override def run: Any = 
-    val row = if isSample then 10 else 2000000
+  def rowIntervals(row : Int) = 
     val bounds = pts.flatMap {
       case Seq(x1, y1, x2, y2) => 
         val cd = Math.abs(x1 - x2) + Math.abs(y1 - y2)
         val dx = cd - Math.abs(y1 - row)
         if dx >= 0 then List((x1 - dx, x1 + dx)) else Nil
     }
-
-    val ints = getIntervals(bounds)
+    getIntervals(bounds)
+  override def run: Any = 
+    val row = if isSample then 10 else 2000000
+    val ints = rowIntervals(row)
     val beacons = pts.map(_.drop(2)).toSet
     val tot = ints.foldLeft(0){
       case (acc, (l,r)) => acc + (r - l + 1)
@@ -47,17 +48,7 @@ class Day15(input : Seq[String], isSample : Boolean = false) extends Solution(in
     val dim = if isSample then 20 else 4000000
     returning {
       for row <- 0 until dim do
-        // find first row with 2 intervals inside [0,4000000]
-        val bounds = pts.flatMap {
-          case Seq(x1, y1, x2, y2) => 
-            val cd = Math.abs(x1 - x2) + Math.abs(y1 - y2)
-            val dx = cd - Math.abs(y1 - row)
-            val (l,r) = (Math.max(x1 - dx,0), Math.min(x1 + dx, dim))
-            if dx >= 0 || l <= r 
-              then List((x1 - dx, x1 + dx)) 
-              else Nil
-        }
-        val ints = getIntervals(bounds)
+        val ints = rowIntervals(row)
         if ints.size > 1 then
           val (x,y) = (ints(0)._2+1, row)
           throwReturn(BigInt(x) * 4000000 + y)
