@@ -62,9 +62,9 @@ class Day18(input: Seq[String], isSample: Boolean)
     do dfs(x, y, z)
 
     val xs = for
-      x <- mix + 1 to mx - 1
-      y <- miy + 1 to my - 1
-      z <- miz + 1 to mz - 1
+      x <- mix + 1 until mx
+      y <- miy + 1 until my
+      z <- miz + 1 until mz
       if grid(x)(y)(z) == 0
     yield neighbors(x, y, z).count { case Seq(x, y, z) => grid(x)(y)(z) == 1 }
     init - xs.sum
