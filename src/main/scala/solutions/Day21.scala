@@ -1,16 +1,15 @@
 package solutions
 import utils.Utils.*
 import scala.collection.mutable.{ArraySeq, ListBuffer, Stack, HashMap}
-import java.math.MathContext
 import scala.math.BigDecimal.RoundingMode
 class Day21(input: Seq[String], isSample: Boolean)
     extends Solution(input, isSample) {
 
-  val map = Map(
-    "*" -> ((x: BigDecimal, y: BigDecimal) => x * y),
-    "+" -> ((x: BigDecimal, y: BigDecimal) => x + y),
-    "-" -> ((x: BigDecimal, y: BigDecimal) => x - y),
-    "/" -> ((x: BigDecimal, y: BigDecimal) => x / y)
+  val map = Map[String, (BigDecimal, BigDecimal) => BigDecimal](
+    "*" -> (_ * _),
+    "+" -> (_ + _),
+    "-" -> (_ - _),
+    "/" -> (_ / _)
   )
 
   enum Node:
@@ -46,6 +45,7 @@ class Day21(input: Seq[String], isSample: Boolean)
         case Num(_) => true
         case Op(l, r, op) =>
           const(l) && const(r)
+
   def evaluate(s: String): (BigDecimal, BigDecimal) =
     if s == "humn" then (1, 0)
     else
@@ -59,11 +59,9 @@ class Day21(input: Seq[String], isSample: Boolean)
             case "-" => (a - c, b - d)
             case "*" =>
               if a == 0 then (c * b, d * b)
-              else if c == 0 then (a * d, b * d)
-              else throw Exception("shouldn't happen")
+              else (a * d, b * d)
             case "/" =>
-              if c == 0 then (a / d, b / d)
-              else throw Exception(s"${a}x+${b} , ${c}x+$d, $op ")
+              (a / d, b / d)
   override def run2: Any =
     val (l, r) = is("root") match
       case Num(x)       => ??? // shouldn't be the case
