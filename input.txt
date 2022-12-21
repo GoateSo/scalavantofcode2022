@@ -1,2587 +1,5000 @@
-fzzb: 3
-rtbf: fzjn * wvcb
-ljqd: 2
-pmrl: 5
-cnhp: 2
-tqgp: 10
-tzwr: 2
-tpfz: qqhs * prhp
-fmlz: fzvl + hpcl
-jdzn: rmjh + lbqt
-mwtf: cmrl * tvsl
-lmdr: zbpd + cjnj
-vslj: 2
-bnrm: 2
-qcjj: fbbd / zzhw
-bncj: tqdf / wnjd
-pfjv: qdwz + ltgg
-tlgh: 2
-sqhw: fpnj * zqzd
-jvvr: bqzd * tbrj
-mnzd: 4
-tzhr: fftb * dzdr
-dhwm: gjsr / hthf
-nwsp: 2
-trtw: tmst * dtnv
-stsf: gdfl * gnlg
-zjdt: 2
-pjtg: hsnl - nqcz
-ngml: 4
-mdzw: 5
-mjvr: cncv + ctfl
-jhqc: hltt - lzvm
-mtgh: jwhp - mjsw
-sczs: htth + dzls
-fgwn: 5
-nwzt: 3
-hzpv: 5
-gmgq: wbgt * fhcp
-pdzn: bpwp * cqhp
-nmsc: pldr * wdll
-wdng: 13
-gcsr: nsdz - ggzc
-rljl: 3
-cfml: 3
-bmgz: 3
-nlbn: glls * ffhg
-gnwm: dhbz + sqtn
-nllj: 12
-gcql: 1
-lbzj: 9
-rtmn: 4
-vlpn: gtmv * mgql
-mtnr: pjmb + qfqg
-ncwf: cfbp + dghg
-vcvb: 5
-jrrq: clqs + lmmq
-pffh: vgth * ssjf
-mwhs: 3
-jhml: 9
-vljw: 3
-rwcn: 3
-hcjp: 2
-zbpw: 2
-ccnd: 7
-rdzb: 11
-grhb: clqr * jlvs
-dvlz: zfph * hlrh
-qsml: 3
-nffq: pmsf + vntt
-dncf: 2
-rncr: 4
-pdwb: 2
-nmnr: 17
-zdqj: dsjw * jvzj
-pqqf: 4
-pnpc: rnjf + htzz
-wjrf: qmnq + vljq
-wbgw: 2
-rjqm: 7
-rrbg: 3
-ppcj: vwvg * rvss
-ccwf: ffjm * jztv
-gfmg: 5
-ffjq: 2
-vwgb: 2
-hnwj: stsf + cjcs
-bwhh: 5
-nhdg: bqnq - cmjg
-plrl: mgbp * qrjr
-gjht: bdrw * fsln
-nrcs: lhtc * ptfz
-sfbt: 2
-zwrc: 19
-nfcc: 3
-zptm: qmrt * wgrt
-vzzd: bzsr + pjhw
-bqds: zplc + dbdc
-gvps: wbcg + fchv
-rbjp: pmts + mthf
-mqvw: nfnl - wdsc
-vftf: 3
-dcfr: 2
-qdjl: 7
-tqdf: vdtm * rhpt
-pnmn: 3
-jbnq: rftb * stfw
-fsln: qnjh + jhgw
-nrmm: 4
-zsml: 4
-llwb: jhsl + wnvn
-lnln: nhvh / qdbz
-mcdz: 5
-svst: 2
-gmrp: rqrv * szmv
-vhpm: nncs + nhql
-cqdt: 2
-jgtj: 9
-zwsv: 11
-fsgf: cvdq + bsbd
-fwss: 12
-zrqg: vnjj * rwcm
-zfph: 11
-fftb: 3
-qmds: 3
-nfgd: 13
-sctr: rjqc / pgvs
-nrdn: fzzn * pwqn
-dclz: sbzf + zgmr
-tglf: 3
-szfh: lvht * bvgn
-fzvt: 1
-lsjv: 15
-qjrl: sptg / wnsh
-wjcp: 2
-fwvd: dwvt + rtpn
-bcpc: 7
-jwbp: vfwt + crsm
-vccr: pqcs + sjjm
-jjhq: jbgw + cffr
-rmvv: prfv + sgjr
-qlzn: 2
-twrd: 3
-fhlh: 7
-fptr: mwpc * qdsr
-qdsr: mjbl + wmvr
-qdgb: 2
-vngg: 9
-lzzm: plbr + gdqv
-rpgg: 5
-zgrg: rbqz + zhwr
-drfq: lrzt * plbt
-tmsf: 10
-thcf: 12
-cqvn: tmgg + tjbs
-rqbn: 3
-nbnq: hrcw * scqh
-hqrs: lhzp - pslm
-qnjh: qzhp + ffng
-hsfd: 2
-pnlm: pvww * fjdr
-jgdl: bstt * lctw
-hmzf: 2
-hjsw: 3
-ttpc: 17
-ggvh: 4
-mhfb: nspb + dcnl
-mcjc: wgqg * sgct
-vbtl: vvww - wntp
-mgpm: 3
-dcqf: qhfs * srhd
-tszp: 4
-cspg: 8
-ncjz: 2
-rgch: 5
-qwwr: 3
-cqgp: mshb * cfml
-jwhp: jppp + blww
-tpln: 2
-bzsr: 4
-hzcb: 2
-bdzf: lpcf * swhz
-fdsl: tlrh / btqn
-dtrz: 4
-cszb: 3
-mzfp: djmj - fbmh
-rgvt: rpgh + pgqq
-smhv: 2
-lqhd: 7
-jbmp: jsqz / jfjd
-mvgg: cgwc * gjzz
-ncbl: 9
-jmns: 8
-rhhp: dlvg * vljw
-mgwm: tdtv - zgvp
-ggpc: zqdp * cfpz
-vvnc: jphg * qdgc
-vmpd: mmcm + tmlh
-qbdl: mqlj - qzrd
-lbds: tzqg * jszw
-fpbw: 2
-zghm: nnpz + qzff
-tprf: brwt * fcmp
-whmz: vgcq + srjs
-wvbm: 5
-dhcs: jmbf * pnjv
-zmwp: wllg * svmh
-lfjt: jmsj + qwlh
-bzlf: pqqf + hvft
-hrtq: 9
-qlmz: wmws * gwzj
-qwfw: sppj - chss
-zwdj: thtt * jhtj
-wlmq: vgqr + dbct
-hdbw: 2
-pgjf: 2
-ggzc: fmnj / ncjz
-rtdz: szgm - tlld
-jmgs: 9
-wtst: 3
-zfsc: 3
-fpjm: hfvp * vrdd
-wmtn: jmps * hcmq
-trtr: qtzs * wdmr
-lnvq: 3
-jscn: 12
-bwfz: mwrn * zvtq
-wbmp: crmr * bpgf
-jmfb: lgvn + mdqf
-fwvw: 2
-mbbd: 5
-wgfg: 5
-pvpr: 4
-hwnr: 2
-btwh: shfv * pnct
-zhsg: lzcw * dvzq
-wggn: rncp + bsbq
-fnbd: 3
-bdrw: 3
-sfhg: 4
-sfhj: 2
-vghs: jjbl * mjcd
-hnns: zmdz * whmj
-zjjc: 16
-jwzr: 2
-nghg: fhrf * vfnc
-pgfh: 2
-trzc: cfhs * cbfn
-zzbz: mwhs * rnbh
-hgdh: hqzc + bjbh
-fglr: 15
-jbgw: 2
-ssdq: fzzb * bjld
-rshh: drpl + phwc
-pgqt: fdlq + rgpf
-gswc: 20
-hfhh: 4
-qqtz: lrrh * qdln
-hprl: 5
-rbhd: 3
-jhtj: 2
-lbtc: 4
-nqrs: vsvz + jpwg
-qdbm: lnln - vtvj
-vltv: 3
-tlrh: hhsc + ppcj
-jlqn: 3
-qnth: 2
-vnnm: 2
-bbqm: 4
-dbmm: 3
-lvhd: wbnr * jqms
-hspd: scjp - hcpw
-zmdq: 2
-mtrq: 1
-qrdv: bgjw + djqm
-tdgc: 7
-vpjd: 3
-gscc: zpvp * sfhb
-rhzd: 1
-wvns: 9
-ghqd: gdgg / lpvc
-dmht: qjjw + rsnz
-djjr: wrjm * mztz
-thnl: 10
-bqcl: bwfz + lfvb
-lnpq: lmjq * zpdc
-gfmd: 5
-bsrh: 2
-rtwg: 5
-qjnl: vcnh * tfnf
-ssll: 3
-srqz: 3
-fjmd: 1
-zstz: 5
-gjsr: vlzv * rgqg
-zpdc: wsqw + dsfw
-bzsp: dclz * gcgj
-fjfd: cnwd * rspc
-hbpw: 2
-shtg: 5
-dgtr: bqcl - hqrh
-qjsr: 11
-zvpm: vmjp + bqzq
-flbs: nwlb * rtwc
-scbz: 2
-jnqz: flsq + sqwr
-jbdw: 8
-sszb: 5
-ntgl: 12
-bnds: nrlp + zzbz
-mchd: 6
-jblr: 4
-vtqt: chms + sgwr
-jgft: znmb + wnsp
-btqn: 4
-plrb: rbjp * hfgj
-gzbs: 15
-mctl: zrvj * mgmq
-nrlp: hlrc + llwb
-jfcf: gggg * hpfn
-hrfg: mzhs / ffjq
-sdhb: bfss * pprz
-ftlf: zwgl + gpjg
-qnhm: 17
-wgqg: 16
-wnqz: qvpt + zptm
-qfnb: tsdw * cmfz
-szzd: wmzv + hlgq
-ddzs: nshr / jtlp
-mdfg: hdrd * bnfg
-lrpp: tdzh * bsrm
-dcrr: cplz + vltv
-grws: bwwh * rqjb
-rvbw: cdsw + mtrq
-cmrl: rrwz + vwpb
-mmcm: 12
-vhgd: 3
-lhnz: 4
-vbzj: 3
-swjf: 1
-rpnl: 2
-mqzs: 3
-twvf: dmht - rvqv
-cbpm: jwwm * cjjg
-vzzp: gjmg * vssq
-jzqr: qgwh + mllf
-dgbh: 5
-plbr: 1
-tnmp: 3
-pfnq: tbgr + mzws
-mrmp: frgm * ztqr
-wwbl: 3
-cblj: 7
-sdzn: 3
-jlwh: 2
-sjmq: 8
-qjrj: pnmn + pwqb
-vshl: 2
-rlhh: lplm * vzvg
-ltnq: 5
-mlpb: 1
-wqwj: dctz * nmnr
-wjsw: ccsj + fwbt
-mrbj: 2
-wbww: wwrf * wtmz
-vfzr: gqrt / fnbd
-fcng: prng * gcgz
-bdmh: 2
-mlfq: 7
-tjnn: 3
-lrwg: 7
-rqvs: hvwn + ndfv
-zcpz: 3
-gddd: fpjm * bllh
-drmb: 4
-gdhp: 3
-nmdn: 3
-jcqw: 2
-wqht: 5
-frgm: wphv * jrzb
-zwsd: jspq / hpfq
-djqm: rtgg * nctn
-ljdl: vttc + nmsc
-dvdb: 3
-ddjp: htnb + pmnr
-mssm: 5
-nwbp: 11
-wzbg: cqhw * dwdr
-mnqg: hlps + grnz
-gmtm: 8
-sbqf: 3
-hjhg: rhhp / lphd
-fdzd: 2
-rlgc: qdbm + whzb
-gbqh: hbfp + mvnl
-cczw: ccwf + qlzm
-jjbg: cbsm + blcr
-zsht: 18
-nlgd: trpd * hjwd
-chsr: hqjj - bqds
-tmgg: 4
-djsw: vmpd + rfgt
-brwt: 5
-fdsz: zzbb + plls
-rcmq: zpwh * jznp
-mgqj: hmsn + cnlh
-tqtr: tltp * jqzd
-wvcb: 4
-fbzf: 2
-mfnv: dwdb + dvlz
-rrpf: 3
-qnbz: 4
-brpp: 2
-grbf: rsst + jgdl
-dpbt: tprf / jsvn
-dbct: 3
-rqcg: smtr * frcp
-pgvp: jrnw + qgrj
-gwnz: ddwt * thvt
-vbrf: 3
-sjlf: qcpr + wdgz
-gdwh: szfs * vsfv
-vwvh: 2
-tcfp: 5
-frnc: jmwh + vqdh
-mpjt: 6
-scbn: dzcb + msws
-wrjm: 3
-sztf: 13
-djmj: wcpp * bgvh
-plbt: 3
-brfm: gccc + chfp
-tccp: qdpz * gjss
-gqtz: vfzr - tprt
-fpnj: ntqh - rlfr
-dhhp: 2
-dghg: 6
-ffhf: fvzh + jzqs
-ptfz: nqcg * pzlv
-qsld: mhlh * jttm
-jsmp: 2
-qhfs: 3
-stwg: 7
-qnqs: zsdz * sdpw
-nrhh: gnmt * jjbg
-gfrf: wjcp * plrb
-qlzm: 13
-dwdb: gtgv * wpcr
-vfwt: 3
-twdp: 3
-mqdd: 3
-fvvd: 18
-pqfg: mzvr * spdf
-htnb: fmtf * pgzd
-bzhp: rhzd + fvmj
-lgrf: fsjq * qjhc
-zbbr: 13
-cdmh: 2
-qhqq: 3
-dppj: lghf + lwqs
-drpq: 8
-cfmd: gbgz * ljpn
-lctw: nflz * wbmr
-lllh: 3
-hsjm: 2
-bfhw: rtmt + snjg
-ztfg: ptvv * mqmc
-jlfs: 2
-pnrz: mdsw * hprm
-pgnv: wsmw * tpfr
-spft: flfs * rlzv
-wqmh: tggj * hhlf
-jqjm: 3
-wcls: jvnd - vqzp
-qrwp: 19
-pnct: 11
-wchh: 2
-gfvl: 1
-svqq: 4
-mfjs: jbhr / fwtl
-hdqb: pffh / ccnd
-jdrw: ssdz - rqqh
-qcvz: bjwt * wtst
-jppp: jtmr * cbpm
-cmnw: fbzf * qpqf
-mctw: gqvr * dlht
-zzct: jgjl * thmn
-wgpb: 13
-dlhb: gpvg * fgnn
-pwfn: jtzw + fnjn
-vmnb: mctw / mmzz
-wrcd: 4
-wpcp: 5
-bmsd: hszr / zbpw
-jcdm: 14
-nwtg: wwfp + pnlm
-qrqm: hmbc + jlfs
-bbsp: 2
-fsrb: 3
-bwsf: bfmm * fdng
-crmf: 2
-jjbl: mfnn * qrwp
-zzlj: 2
-dghw: 5
-trfw: 3
-bvvb: 2
-hbfp: jdph * shcr
-mhrj: gnhf * srcd
-gwgc: 3
-cbfl: vhlp * nfqn
-pzlg: sbzd * szwt
-pcwq: zghq + jfjh
-lgvn: mcsw - snlg
-chzd: 4
-lcnc: 4
-fmgz: 7
-vrwn: 6
-frcp: 17
-zrwr: lwvg + psls
-tnpt: jbfn / wbhn
-blcr: clcf * dghw
-lnhd: 2
-vwrd: 5
-fghp: vwcs * lbwh
-mvmg: qrgm * vhpm
-zbsw: 5
-pzjw: 7
-rmnc: dlrt - gnvq
-nmpr: hwnr * vvmg
-bsbq: mgmh + zcnb
-tmst: zdrz * fchr
-wmzd: bqwp / bbqm
-lslj: lpqg + mtgh
-pnjv: 5
-bdrz: qlrf * qwsz
-vndn: ftqn * hvbg
-clqs: 2
-dscn: wfnj + ftpq
-jwqr: zrqg * bhhv
-mjpl: bdbt * gtlz
-fvmj: 8
-nlvz: 2
-hlhv: bbsp * wvbq
-pdww: mqdd * bcdl
-vrdd: cztg + zgtp
-stfw: 4
-gsqj: vltr * jqsg
-fwmq: 4
-nsdz: mftp * bnwl
-cpnr: 3
-mtwg: 3
-gmnp: 5
-jtsj: vswg + vzvc
-vswc: snnn + bhqv
-szlb: 9
-jwjt: dpbt * mbzl
-bndw: 20
-bzrm: 15
-fdhn: 5
-vpzf: 16
-dznm: clmc * sfhj
-wsbj: mdng * zbtm
-jccr: fhlh * rwng
-pmsr: sfft * zghm
-fgqn: 4
-crlh: msbd * wdfh
-dwvt: dgbh + pjcv
-rwcm: lmzb * ddtp
-lrzt: trzc + zwmh
-qjvd: cfcj / dswc
-rfgn: 2
-jrrg: nqsd - zqdb
-bhjp: pndb - qlmz
-wgsd: rzjc + vbwj
-vjqg: qhvc / smtb
-rdrt: rvqs * jdcf
-grqd: pfnp / hwnb
-bdbt: 5
-swlr: 3
-pbmh: nllj * jwbp
-vsmr: phcr + shps
-prrb: 17
-sbbn: 15
-gtbf: 10
-fhgv: 3
-bjzw: wqbd * gscc
-nrnp: 5
-fqmn: dlnm + dsvm
-zspv: 3
-whtj: 2
-jntz: dtbb * wzdz
-vdws: pbdp / twrd
-ssdz: dncf * jhvl
-nmpp: gfvl + qvlt
-rddb: 2
-ttmt: mlpb + bjzw
-vlzv: ztms + dfvc
-rqtj: 2
-bdjw: mvpc * lvvl
-wmws: wppw - jvjv
-thvt: 2
-fjmb: dvmw + zvcf
-cpmb: 17
-qzff: jdcg * hfsf
-bdlg: 2
-fdhw: 2
-dqjs: 2
-gvlc: 11
-rlvh: 5
-svmh: 19
-flsl: 11
-qvqp: stpg * jszh
-bblr: lpzl + lfjq
-jqsc: zzct + zwfc
-fljz: cqnf - jbdw
-gtqb: 19
-nmhp: cqvn * wscs
-jzch: nbbs * ltnq
-vbtn: zbbr + pcrr
-jspq: wjth * pntm
-jmsq: 2
-rmtp: plvg * qzzt
-wgzq: vghs * qmqn
-znrv: 11
-wblt: 13
-wjfz: 12
-szfs: bfgr + vsbh
-pmts: 12
-lfsz: fncl * brss
-vbcs: sfdt + lcfp
-bghh: 3
-nsgw: 4
-rjdb: 3
-mzts: ghmj - vvnc
-cngv: 4
-gnvq: 4
-vmng: rbfr + vjdr
-mfgf: nnvs * jcpp
-rnjm: zpvj + ldhw
-dvdp: 2
-btcw: 11
-gwzj: 3
-zwmh: clmn + pdww
-qgqq: 2
-qdfh: mhsm * vjbj
-hfgj: 5
-hhlf: 3
-clqr: vlpn / mnqf
-mvpb: mtwl + rmnc
-shfv: 5
-qcpr: nrsq + hbqg
-pbdb: 1
-rfmh: 6
-tlvq: 4
-mrbc: fhmh * czvr
-vtqd: 8
-vgth: 7
-rwng: 7
-rpgh: 1
-rwsl: 3
-wsmw: 3
-znvw: 18
-gffs: 5
-cpth: hbcg * qqtc
-rmtj: 18
-mwfb: 20
-scqh: lslj - wqmh
-ndwg: 4
-blww: nqdt * rvqt
-svcz: 3
-vvbq: cttg + pbgf
-bhqv: brpp + pjtg
-hlgq: 9
-wsjh: thjm * jcjn
-djdh: 14
-rqfl: 5
-hrcw: 2
-ntnt: vqwq + pmpd
-dhcz: 4
-wpmm: 2
-ltrt: 3
-mthf: 1
-lpvc: 2
-zchr: 2
-flsq: mrzj + lrnw
-jgdh: mjvr + zzrm
-rdhv: 11
-rndr: 19
-vtdd: jjtc * qhwv
-dhjc: dnnv * scbn
-lbqc: jpcm * rqpb
-qrgm: 2
-nqwp: slfv * bcgc
-sjcs: 3
-tqqs: 4
-fmwr: mdbw + mqwc
-bbjn: prlh + fhmr
-bfvg: 2
-vzvg: fvdj * cphz
-whqp: 9
-trlg: mjpl + zpfh
-ghmj: gjjn * vpvf
-lvht: tlgh * jwsr
-tvlt: nvbb + mbbc
-nqnl: jnqz + hmvp
-wcpp: 6
-zjjh: zfjs * bncj
-fzvl: gqmm / rwmr
-gdmn: 17
-vtvj: 6
-zvwv: 5
-hqgv: 2
-jclq: dpbd * wgsd
-sptg: tmss * lbrb
-nfnl: 10
-ssjz: vsmr + pwrs
-wnsp: rdqq * gchp
-rbcn: 4
-srhd: qrwh + pfdj
-tfzg: 10
-vdcd: 3
-gdvf: stwg + pcwq
-pwcl: 2
-wzpn: 7
-hqjj: fdhr / bmgz
-mrnh: nrhf * sqzc
-qmrt: 3
-spwc: hshb - cczw
-sdnh: lbmq - gfzr
-jgjl: gdcf * mpfm
-qzfl: 4
-gnmt: 2
-mcjf: 5
-wnbw: pwdf * mnzd
-pjfp: 3
-rncp: pdjq * hftp
-mqfn: 6
-snst: zmzz * zlrw
-rmjh: ddsh * rfgn
-zcrb: bzjh * lthv
-mjmf: 5
-cvsw: 2
-fzsn: whtj * mwwp
-hshb: tgqp * pgfp
-drqq: 13
-pcrr: 10
-lbdc: 5
-hprm: 3
-gfzr: wmtn * wzpn
-rbbq: 20
-jfjh: wqfr - hgbl
-gggg: hmgv + bnds
-gbjg: 1
-lbwj: 17
-wsrj: zjjc / vzvr
-nzqf: 3
-lrzq: 8
-wfrp: 9
-ldmh: ttmt + qbfm
-jljm: 2
-tvdp: dglt + fthg
-qjsv: vcqz + rlgc
-bhgq: 1
-fwpd: 3
-gccc: mtvn + drqq
-mqpr: 2
-rltt: 5
-gjvh: nsvw + jmld
-vttc: trrq + pqfg
-zdzl: zffw * tbhg
-phwc: lmdr * vbrq
-hvbg: 2
-vqzp: 2
-vhql: bgdp * vjhb
-bpsn: 2
-ptmv: 1
-cqnf: fjjh - gzbs
-njfq: 6
-vdtm: 2
-vfmp: 2
-nhql: 2
-qrdg: 4
-tdtv: rpgg * gvlc
-nnzh: 13
-sjlj: scbp / hzpv
-zpcp: 3
-wzhd: mnzp + dgss
-fvmm: zbcj * dpch
-dqnb: 3
-rfng: 2
-trpd: 4
-ntbs: 3
-bfvt: 15
-lhzp: bcpc * fpbc
-vsbj: vlwn * vfgd
-jvnc: cjrl + dfrr
-mztz: dhcb + jmfb
-hvft: twjq * hrhg
-mwsl: tqsl + cdvl
-pwdt: nlfr * cmzg
-jjtc: qjrj - dcww
-mjbl: mjmf * mrpq
-fmwl: 2
-tgvc: fhrj * thmb
-gwcc: 4
-bqzq: 9
-ctfl: rrfg * stjc
-ddwt: 16
-wbgt: 19
-nrwp: 2
-nwgw: nzzr * dzvr
-dlff: 5
-vcqz: 14
-gchp: 3
-mnsd: hfjh / wpjb
-vsdg: lqsj + hsjm
-njzs: ztsj - pnrz
-zzhw: 5
-bmct: lgzw * tdbd
-rrrc: 2
-sppj: ldzp / npfv
-hltt: mcjf * jsbw
-gnhf: 5
-njzc: qzgz + qthv
-zhqw: 6
-mhbt: 11
-nnwr: 13
-rfdz: rncr + zwwl
-mrzj: 20
-ztsq: lfjt + dqnr
-sfff: tpfz + hbzf
-pgvs: 5
-rhdv: jccr + rlhh
-jwnn: jsnp * dbmm
-vwld: 6
-dhph: gdvh + mtdp
-tzqg: 2
-dhcb: bzhp + dlff
-fczw: lflz * pgvp
-ccrt: 7
-hrfb: 2
-lpzl: dppj * whzr
-pzwp: jhqc * qpqq
-dprp: 11
-wpjb: 2
-gvjn: 17
-vlzd: hmzf * jwth
-ffsc: 5
-mvwm: 3
-djhq: wnjz * nwzt
-snnn: dccs + zvpf
-tbqn: wlmq * trfw
-gcqv: hdbw * ppcr
-jlvs: 3
-cbsm: rcmq * qnbz
-zmrb: 3
-whvj: 3
-bbnp: 6
-jmbb: 6
-psvt: 3
-mdqf: 1
-mvmt: zjll + psll
-rlsl: cjfh * fhlz
-pvgs: qjsv + mhrj
-tvsl: mwsl + zsvl
-hwnb: 3
-tcbv: 5
-sqdh: 4
-mvzw: 4
-tmss: qpll / rbhd
-sqrd: 7
-bnhb: 7
-ctnc: 2
-pvmn: tmsf * sbpl
-qzfp: 2
-cjrl: 4
-mjfw: bwsf / bdmh
-gffb: wsjh * jvht
-jsjs: zpcp + qrdv
-pzfr: 4
-wtht: lrzg / gbwz
-qzhp: 16
-pggr: shpl + hspd
-qmcp: 2
-nwbq: gpdd + vcvb
-rvgl: hpmm * gwjc
-zhgf: 2
-whzb: pmrl * nmpr
-dvgw: sfhg + npnw
-mtfz: 12
-bjvp: rtvb * hrfg
-bzsh: 18
-lfmm: wdbz * hrmb
-tmcf: 3
-cwtz: 2
-shpl: fgsn + zstz
-vsbh: fghp * pgjf
-hnlr: 4
-lsst: zlbg / lnhd
-rpcc: tglb + vgzj
-wphv: 5
-hbcg: 4
-smtb: 2
-fchv: pjgs * fdsz
-qmhv: tczs * bndw
-zhfs: 2
-mvwt: wbfv + qrqm
-brqt: mwfb + nfcc
-cdgq: 12
-chtg: rnbw * wzrb
-zznm: msnn + vhhv
-qbpn: 14
-lghf: cbrr * jvwc
-pbgf: rfmh * stzd
-wpbj: nhnm + tjph
-rjhg: 13
-jwmc: mnjj * cqjf
-dctz: vjqg + zhfs
-bzjh: 10
-fdng: 16
-szgm: dztr * bvgr
-hwfp: 2
-vqwq: tvpp / nsmg
-zbmp: nhpz * qnsb
-cbwf: mrnh + snst
-jfjd: 2
-stjc: 8
-shmg: 2
-qgrj: bsrh * pvcn
-lfth: 2
-qqqd: 3
-dtnr: rhzs + dgjf
-rvqt: gmtm + drfq
-qrwh: gwgc + zssr
-bnfg: 2
-dhgv: wfzs + thjw
-thbm: 2
-qzln: 3
-zmdz: 4
-sqwr: tpzq - gwlg
-jwrn: 8
-gtlz: 11
-psls: hnns + zgvq
-gfdz: hspl / jpcw
-snbq: jmsm * nlvz
-cgvf: rbrb + hjlb
-fhhp: 2
-msbd: 2
-root: prrg + jntz
-gdgs: 3
-nlqn: 9
-ssjf: bzsh + wgpb
-ndnj: 4
-lplm: 5
-mgbp: zbsw + fjns
-qlrf: 19
-tbgr: 3
-vnjs: mvzw + sqrd
-swdl: 5
-gczh: 2
-gmgp: 5
-msvn: ghqd * ztsq
-jhsl: nqrs * ttpc
-stct: 2
-prfv: 4
-ptbg: 3
-gndv: qzjw * rjqp
-bvgr: jhpp * ghtl
-mwwp: tzhr + wbvs
-vjch: qmhq + nmmb
-rpps: tjdm + tpbq
-pwrs: mbzc * spws
-swvr: 5
-bnzj: 5
-qhdl: 20
-mftp: lqhd * jqjm
-pssv: rqsq + bwgn
-tqcj: llmm + pctw
-qczh: svst + mctl
-cplz: 8
-jsnp: 2
-bnwl: 2
-zgmr: clwr * pvpr
-lngw: 6
-jhvl: qcjj + ljdl
-wmnq: tqtr - hrtq
-mdqs: sjmq + wfcv
-fwwr: 5
-rhbt: tgwn * vpqv
-lgvz: fmpz * hfgc
-gthp: frdq + spmr
-ntrp: lgst + tswt
-gzfb: jlqn * qptj
-zftl: tvlt + sbsc
-stlr: 5
-hlwb: ddlt + bmfw
-hsgp: cngv * ssjl
-hlfq: 5
-wrrv: 1
-twjz: tvvt + tbns
-tcjq: gfmg + ltrs
-cvgv: 3
-vjrv: 8
-bvmg: 2
-rjqp: 3
-gwcb: dlhb - tsfp
-njnb: 4
-tsdw: vffj * csmr
-jdlt: djsw * mmdf
-rssc: 6
-phvw: lbqc * wpjq
-ndlc: cblj + flcn
-whpr: 7
-dldr: jwww + hzlv
-pfdj: 9
-vslv: zqcg * vsdb
-fwtl: 5
-fhrf: 5
-wtsh: gwrw / ncbj
-mbzc: 2
-tlll: jdlb + hhbb
-zzvn: tjzz + wbmp
-czvr: 19
-fbzz: 5
-qsbl: 6
-cllq: fwlt * thjq
-mwtb: 3
-wslp: 5
-fdgq: 2
-ztms: zlzz * qdgb
-nqcg: 9
-snlg: 2
-pnqt: 2
-fhrv: 7
-wdll: wfbl * crlt
-qmjb: mtnr + zzcv
-ptnd: 10
-tvrg: ffnt * zfqd
-dpvj: qlzn * rqbn
-jszw: nrhh / fdvw
-mnjj: sqtp / zgmn
-wfbl: ptrg - pbdb
-wnbf: lgss * zctz
-fwlt: rfng * qsld
-zbcj: nrmm * mvmt
-tzjm: vpcf * fwvw
-ddfh: 7
-jtlp: 2
-dlnm: lflg * tfpr
-dfrr: gfmd + hvfp
-vbrq: 3
-bfpd: mfdq + jwmc
-qzrd: fczw + wtdf
-hcpw: bscd * pzfr
-mldb: qpnf + rmtj
-tjqg: 2
-gtdn: tdbl * lbzj
-pjgs: mvhj * fcmz
-bpdb: 5
-nttm: 2
-dnnv: 2
-mswc: qjsw + wfbd
-qcbb: 5
-ghgz: 4
-jstl: qldl + rzbn
-zwjn: qvsw * szfh
-nlsq: qfhb - twdg
-lzcv: 4
-hpfn: 4
-rvqv: 11
-hhrr: twvj + mjnv
-ntwb: 2
-szzv: 18
-dsqm: 2
-ncrp: vcwl * gfrv
-lzjv: jvvr + vfmp
-mdlb: 1
-gtgq: 6
-sgpv: 12
-tqsd: 4
-tgsz: bzrm + ztbq
-htvq: 5
-jwth: 10
-bvgn: 2
-dsvm: llgw * qtth
-bdpl: gfrf + zzbh
-jcpp: nlnb * scbq
-clqf: gwcb * mbfw
-wscs: bdlg + rdhl
-scjc: 1
-qtth: bmct - scjc
-lvvl: pjfp + vlzd
-gbgz: 2
-mjcd: 2
-ntlb: 13
-cqhw: 2
-jlbq: thfv + dgtr
-pmnr: qmds * rqcg
-tfpr: mmld / dqjs
-jbhr: fclq - jrrg
-qfrn: ntgl + gwfw
-bgjw: 18
-wbbj: fjmd + fbgf
-vgzj: zjvj * bzlf
-ldhw: rshh + cmnw
-qzqm: 5
-ldzf: wzwv + pnhc
-bsrm: lcpd + pgnv
-vjbj: 11
-nrsq: 13
-tpdb: wnzp * nbfn
-tbcm: stlr + jdzm
-gqjj: 17
-sqrp: wcls * nmdn
-fhmr: 4
-gtmv: jfng / bvvb
-ghvc: 2
-vbqw: 2
-mdbw: mqvw * dldr
-fqfv: cnqz + sqmn
-rqds: 5
-fmtf: rtng * cdgq
-hdhv: 4
-bghb: 4
-hspl: dhhp * pgqt
-flnn: 4
-ftsb: 9
-spws: 3
-gldm: zwmb * fhrv
-lfjc: 2
-wgrt: 3
-jqms: znrv + fvfj
-zdnw: ttlz * bscm
-pnnp: 3
-cnhw: sgpv + tcbv
-dznr: 2
-rgqg: 3
-jzmz: 2
-twrc: ggfg - grgg
-bdmq: 1
-pqgr: 14
-jtmr: pjdv + mlqg
-qltm: 2
-cmjg: 3
-vmjp: btnv + zbmp
-qnmc: jqlt + jwrn
-ndht: bssf * bfpd
-mhts: hzmt * lrpp
-zfjs: 2
-vwcs: hnlr + jzrj
-qdln: 11
-zlcw: rsnn + tqcj
-nlrh: 2
-qwsz: 2
-thss: chzd * cslf
-tpgf: 4
-vsvw: rpff + fvmm
-twjq: wwbl * dclv
-qqhs: 8
-qtnt: ntlb * nnzh
-rrtm: 8
-wnqv: 2
-tqdl: chsr * tqdg
-tczs: 9
-tmpr: 2
-qpjv: lggp * hzgt
-tftq: 2
-qfvq: jcsl + clwz
-sjjm: fnpm * jwnn
-phcr: hzcb + fhsh
-mwsh: qrgv + cmvm
-mrgw: 3
-rnjf: zcjm * qsdr
-wznb: ddfh * vsvw
-trrq: mrmp + dgts
-pjdv: wvqq * qjrl
-wpjq: hgdh - ssll
-bqnq: wsrj + pdwb
-jvjv: 4
-twnd: 2
-jzrj: rczt - hgjd
-frdg: 3
-wdfh: cwpp * czqh
-qrvp: 2
-tzfg: svmv * hcjp
-fqnb: 2
-jphc: pzlg + tzmt
-fdpq: 2
-thjm: 3
-qtzs: 4
-rtmt: 1
-vpfh: zwsd + pzdj
-hthf: 3
-sthp: 5
-jwmm: nfcb * nvld
-bscd: mcwd + wjdj
-bznq: fdsl - gddd
-zlqf: tfss - jbmj
-hlzm: 2
-znlw: dznm + dvdb
-hshd: vvml * qsdb
-jsbw: qjwf * flnn
-tncb: 5
-vqdh: 4
-gfrv: 4
-hdrd: wqjb + bdzf
-jrtj: wbbj + bghb
-llwm: rjdb * jsmp
-ttlz: 3
-gqmc: 1
-vlgs: 3
-fthg: wvbm * zwdj
-frdq: pgnj * jtrh
-fhmh: 4
-cvpp: 8
-tgqp: psvt * ptbg
-jwww: 9
-wnjz: 3
-gtgv: zswh + sgzq
-qzmv: pphl * vzsc
-sbrf: 3
-fndd: vwsl + swvr
-lbpq: jcqv * rqfl
-pnlj: 2
-clcf: jnzz + mchd
-qbfm: dscw * mrbj
-bcgc: ccsd - rjrw
-lcfp: 14
-wzdz: gfpp + cbfl
-nvfp: 2
-tbrz: 5
-sjhz: fbzz * rmzs
-qdzl: bdmq + qmhv
-ptcw: 7
-hzmt: 2
-tzqm: 4
-rcns: 3
-djrq: 4
-gjzz: 3
-bfvl: qjrn * sthp
-lbwd: qnth * jlbq
-vzvr: 2
-hmsn: sfbt * gllf
-svmv: tfzg - hphp
-sbsc: 1
-lszc: 9
-wvmh: 3
-schp: 2
-mpsf: 2
-tqdg: 2
-rbrb: dzzl * rddb
-hhwm: 3
-hsdv: hnld + tccp
-rrmz: mffg * dpvj
-qvvz: bpdb * qdfh
-zctg: 6
-hjlb: rljl * rwcn
-npnm: mwtb * dssm
-zvgm: 8
-dzzl: pdsz + nzqr
-pjjs: dznv - tpgf
-lmhd: rssb * pjtz
-vtpd: 7
-clmb: 7
-dffs: pgzs + hjnn
-mqbs: zspv * zdzn
-hvwn: wggr + cjwc
-fgnn: 6
-hqzc: 1
-lthv: qpjv / vshl
-fnwv: rlzf + pqgr
-hsld: jstl * gczh
-splw: dsgj * twmp
-spnb: 2
-nqdt: 5
-rtvb: 5
-mnzp: 7
-zrds: vdjz * pwtg
-mmvf: 3
-pwcw: 2
-scbp: twvf * dpcw
-mrpq: 2
-pgzs: 10
-csjh: 4
-pswq: lszc + jcqw
-cbpg: jqbl + gjff
-tltp: lrwq + qbtv
-ltmt: ddqr + sbsg
-wmvr: 3
-dbgb: 2
-vvmg: 3
-mttj: 5
-rhpt: gdvf + zhqw
-zpfh: 3
-dbcm: gsqj + llpl
-jqlt: 3
-qjgv: gzpr + crlq
-rrpw: 4
-fncl: 12
-hlqc: 2
-fwmt: vtqt * gtgt
-qhwv: 2
-gdvh: 20
-qjjw: 11
-dctl: ndht + wgtm
-blwt: 4
-rbbs: ncrb - vdws
-mfng: gsdc * lcdq
-jcjn: gglz / zjdt
-wnsh: 2
-cbdq: lszg * nbhv
-qlwc: 3
-pdzw: 6
-prhb: 2
-gmsp: 3
-jdpg: nghj + hjhg
-shwj: dcqf + qczh
-fhvv: hdbg + tnwb
-rcmw: 5
-nqlw: mvpb + wmnq
-vbhd: 2
-fbgf: wddm * bnrm
-zdrz: rcns + qmjb
-tzmt: jzrb * mtwg
-jmld: 5
-qsdb: 3
-fgnl: 1
-wdmr: 6
-bgvh: 6
-cpgb: 2
-hcbn: gqst * qdzl
-hphp: 3
-crnl: 5
-jphg: nfgq + tlll
-lbzc: 5
-qsnl: ssdq * llnm
-cncv: 1
-swbh: zlcw + dprp
-psws: nnwr * jgdh
-bssf: 2
-hfvp: spft + jzch
-wbnr: 3
-gwrw: dtwh * cdtn
-tdjs: 3
-zvng: zjqm * rqds
-dsfw: swgm + jsjs
-jtft: 10
-gzpr: gmgq / zbrq
-jpcm: 4
-rssb: 4
-lcpd: 14
-qjwf: rqvt - rccz
-ssfc: gldm * thpf
-cbfn: 3
-sqmr: mnsd * wfsh
-zpvp: 3
-gfpp: dbcm * zhsg
-dwdr: 3
-wqbd: 2
-fqvt: 1
-qqbg: 2
-lbwz: 9
-lbgf: 3
-qpqf: ldmh * srjb
-fwbt: nghg + cjch
-lzcw: zmlg + spwc
-twph: qlwc * htvv
-ccsj: drpq + bmnq
-zqcg: dgrf * vwgb
-qmhq: 3
-pvww: sczq * nrwp
-vswg: rtwg * mhlf
-sqzc: gmsp + zsml
-prlh: 5
-sbzd: fhjf + thtq
-mgmh: mvwt * tclg
-cqvw: 2
-lrrm: 5
-srcd: wfpd - ngml
-jcqv: cdfw / fjmb
-vmwb: rpcc + gtdn
-hdbg: 4
-ctcw: jmns * qrdg
-tzlp: 3
-fwhn: zlqn * rgch
-jpdr: 2
-cdtn: 5
-dfdn: btwh + sczs
-pwqb: lzdb + plgb
-pssw: lbds / lwzb
-lbzm: 4
-szmv: 3
-mtrh: 13
-pwcp: whvj * lllh
-vssq: bjrn + fwmt
-qldl: tcdc * fqfq
-rcjv: 1
-nvlq: lmbd * gsmw
-mqzj: dvdp * nbqb
-lrnw: 1
-lwsl: sszb * fdmw
-mhlh: hsgp - mdlb
-jvht: 5
-cfpz: mjln + pppq
-grgg: 5
-szqp: vpfh - hshd
-zwwl: 5
-mlwv: 5
-nlwf: 3
-jmsm: 17
-vbcj: 2
-nqsd: qsnl * brfm
-zpmv: dtpz - nnrc
-dmfq: wchh * pgmj
-dhjv: mgcj + slnn
-cjsl: lqdg * cszb
-fwpw: 4
-whzr: 2
-gqbn: lbpm + srwr
-pgzd: vmwb + hlhv
-vsqp: gppr + jljh
-wbml: 10
-vdtd: 2
-bqzf: nlrh + mssm
-qhvc: djhq + gjms
-lwvg: 15
-shcr: fnnt * ltpl
-zjvj: 2
-tlls: 5
-qvpt: qjzr + ptjz
-pldr: dhcz + fglr
-gjss: 2
-fsjq: 2
-rlmf: 16
-gwjc: 5
-jncr: 6
-njnp: 18
-jnrc: 6
-qwmt: lcnc + cvsw
-nnhf: qzfl + fjfd
-jmcw: hhtj * vzzd
-rnbh: rlsl + zcrb
-rqvt: ppdw + hbbn
-bpcl: 3
-cdsw: 10
-jzcp: 3
-wbmr: 5
-zjcg: 4
-dgss: 10
-cfbp: lbwd / qgqq
-tsqs: 5
-csmr: 2
-dpmh: cnhp * brqt
-rwmr: 4
-cvmh: 4
-ffvt: 2
-qpnf: 10
-ngsh: 6
-wrbn: 3
-pfnp: vlgs * pfjv
-ltrs: 4
-hbqg: rtmn * zctg
-mbdf: 5
-vbnn: bnzj + jfqs
-qjrn: 15
-nlrq: 2
-wbvs: 5
-vwpd: ztfg * jclq
-rrsq: qtnt * vnjs
-wddm: 4
-thmn: 3
-tnwb: ldzh + rmmm
-bscm: 4
-tggj: sbqf * ntwb
-fjjh: npnm - gmgp
-zjqm: jljm * hnwj
-jlbt: hzmj + mgqj
-cnwd: 2
-djmp: nqlw * qfnb
-tcdc: 2
-qpss: 4
-qbmv: zszc + rnjm
-cttw: 6
-pgfp: dfnc * fwpd
-tsld: 6
-pbqv: shtg * lbzc
-dfsq: gsbn / mpzd
-dpch: nsgz + nzfd
-gdgg: ptcw * rrrc
-llgw: 2
-jvnd: 9
-mczj: lwgj + nbzt
-sdml: 2
-jttm: 2
-tvpn: mfgf / ncml
-pprz: 4
-dhlc: vbrf * srgb
-hrmn: wpmm * nfgd
-ftpq: 4
-gztf: 2
-mshb: qpss * fdtn
-wrzg: zlqf * tmcf
-qmsb: 3
-clmv: rmsq * wtsh
-qpll: zssd + trtr
-ldzp: mpsf * nqnl
-njvj: mwtf * nzqf
-mdsw: 9
-shps: 5
-sqmn: 4
-srjb: 5
-vjdr: lzvf * clmb
-vwvg: jzsb - lnpq
-zqdp: 3
-mfvt: 3
-tdbd: 2
-dwnn: 5
-shvp: gdgs * mmdg
-qbtv: 5
-rrwz: prrb * sdzn
-jcsl: mczj + flbs
-fvnj: 2
-dhnc: 2
-njjr: jlwh * gnqs
-ntrf: 13
-jpqp: 2
-nvfc: 10
-twmr: qbpn + rvvh
-hftp: zchw * rmzb
-qjwc: lmsg * djwm
-qmjz: 12
-tptv: 5
-zqzd: 2
-mhsm: 3
-wjdj: 5
-ztbq: hlfq + splw
-jbmj: tbqn / cvcv
-mgwh: 5
-zpvj: rnsc * snbq
-fvhc: pgmh + rvmr
-lzvm: nvns * nvjs
-wjth: 2
-ccrj: mhbt + qfcn
-rsnz: lbwz + sjjn
-brgr: vsdg + hprl
-ztcf: 3
-hdcq: 8
-qzgz: 7
-slbv: 3
-jhpp: 13
-rpmq: hlwb + sqhw
-grnz: 13
-sgwr: jgpr * fdzd
-sqsr: 3
-tqvl: 2
-fgsn: nwbq + tgcs
-rtfz: 2
-jbzv: 2
-lhpd: qpjh * vzzp
-dsjw: 7
-jfgd: 3
-wfpd: njjr / qmcp
-hvjv: wnbw * dvhn
-pnhc: ssqv * dmfq
-wmzg: cwvs + bthv
-lpqg: 13
-vsdt: 19
-pljv: vsbj + wsws
-hmgv: nlbn * zftb
-qpjh: bhjp * cqvw
-jzhz: jdpg * fdgq
-vcwl: 2
-lfjq: vbtl / nvnh
-lrwq: 8
-rbqz: hqgv * pwfn
-rcwg: vmvs * mlwv
-jwwm: 2
-swst: 4
-cqhp: mqzj + mbhw
-mmdg: 3
-pglv: dchq * wslp
-znmb: 4
-qzjw: mqzs * vzgs
-qmnq: hqrs * vhgd
-nqcz: 4
-pwqn: 3
-dqnr: grzj * dhlc
-gtgt: 2
-nsgz: ptfp * jrtj
-prhp: 2
-rqth: dhgv + mjfw
-czpl: 2
-lflg: 5
-pgmh: clqf + pqjt
-wtdf: zvpm * nsgw
-tpbq: mhfb * jstg
-smvs: 12
-rczt: bqzf + gbtf
-nnnb: 3
-hhsc: rvgs * lmls
-tvpp: vsrz * ssjz
-htvv: 2
-dqmq: 2
-glls: gjvh + gbdm
-zqdb: msvn + rpmq
-cjcs: cphm * zppd
-hshr: 5
-qhfp: 7
-fwnj: vnll + pwdt
-pqcs: mjtt - hdrt
-ttnv: jgtj * zwts
-clmn: 4
-jqpw: 10
-hzmj: zjlv + cntb
-pntm: qcvz + vffg
-mlfw: 2
-fbmh: 5
-mfcj: chtg / mlfw
-lrjh: qqbg * sztf
-vljs: 3
-wvbq: jfgd * lzzm
-fqrf: 5
-gdqv: dzjq * vbtn
-mgql: 2
-fzzn: 3
-hlrc: njvj + lmhd
-fngv: fptr + grhb
-bqwp: qqzc * grqd
-lzdb: 5
-tqsl: 6
-mzhj: 3
-dswc: 2
-lwnq: 3
-ctgf: 4
-fclq: clmv - nwgw
-bnhc: 2
-dzdr: 2
-dvmw: 5
-rzvz: dtdd * glmr
-jbfn: hgqb * rmmv
-ppdw: nrcs * wsbj
-cgdz: nttm * psgb
-cvrz: 5
-hrhg: 3
-gjmg: 2
-gnqs: 17
-hnld: 1
-lmsg: gptz + dbjg
-cslf: 2
-jtrh: 3
-hfsf: 2
-vhnd: cgvf - jnrc
-zwfc: hslg + psws
-jcgl: fsgf * rjhg
-lfcm: 5
-lszg: 7
-vpvf: tgsz + bstc
-vgpq: 1
-pfwf: 14
-rspc: pnnp + mswc
-hmbc: 6
-nzqp: 5
-zjll: 3
-thjw: tzqm + qmjz
-bmnq: hrmn + nffq
-cdmt: 3
-qdbz: 5
-zplc: mnqg * jczb
-zswh: 6
-srwr: tncb * jqpw
-hrmb: schp + wpbj
-hvfh: 3
-mpfm: 3
-mbhw: 1
-dnwh: przf * swst
-vgqr: jdzn * fqnb
-gcgh: 3
-cffr: lnvq + jncr
-rjpr: wzbg + wjfz
-cvdq: gmnp * whpr
-bqzd: 5
-qdpz: 3
-nbcm: mldb + tpvj
-wsqw: wfrp * qsml
-fhlz: dpmh / bddf
-pptt: tthb + wjmw
-nbbs: tzfg / htcq
-fbzh: wnjs * glwc
-wfcv: 10
-qrgv: 2
-dgrf: 4
-nfqn: 8
-nrhf: cgph + jblr
-hpgq: thnl + swlr
-zwts: ftsb * mgwh
-clmc: 4
-jmwh: dqmq + crnl
-zzbb: cqdt * gcqv
-hsds: wrrv + whqt
-jszh: 2
-plls: 7
-zdhg: ntrp * cvgv
-rtpp: fgqn + fhgv
-fsgr: 2
-sgct: 2
-qzgp: phvw + pgdv
-ldzh: rqtj + mnwv
-cmvm: mghs * pzjw
-gsbn: rjvg + hctl
-qjzr: bdrz - swjf
-twvj: 11
-rqjb: hshr + bpsn
-ngpm: rbcn + vtpd
-jsqz: jrrq * scbz
-cntj: 17
-tfss: jwqr - jcdm
-mfdq: rbbs / cvrz
-sngp: jgft / jmnb
-fnpm: thrd * fhhp
-cfcj: mwhp * fvnj
-cdvl: 7
-ntqh: sbrf * jtsj
-rhzs: gdwh + rrsq
-ptjz: cfsz * lrrm
-pzcj: 10
-mfnn: 2
-thmb: rrmz / ljqd
-wzrb: vwld + vwrd
-nshr: bcfq * wbgw
-fpbc: wdhm + wnvm
-dfvc: jfcf + pdzn
-vtsl: ntnt * jjhq
-tdzh: 5
-wnvn: tqgp * qjnl
-fpvd: trtw / qvqp
-cttg: mfnv + nmhp
-tpvb: gzfb - bfvl
-prrn: fbzh + bfhw
-zzrm: dcrr + tcjq
-mjjh: sqsr * vggz
-hvfp: 2
-thtq: fdhn * gmrp
-qjhc: 6
-przf: tglf * ztcf
-pncp: 3
-cdpv: gplh * pwcw
-nzqr: 5
-wsws: wthd * vtdd
-vvml: 3
-gnjn: jdrw / rvbw
-nbfn: 4
-vnjj: 6
-rlfr: 20
-cntr: sjcs * hvfh
-cccn: mwpd - vdcd
-chms: wbvh + gqmc
-vsdb: 3
-bfgr: vccr + trlg
-msws: 19
-rqcf: 2
-dzcb: 3
-cvcv: 3
-bnng: 2
-wllg: 2
-fdnb: ftlf + zrwr
-dbdc: jwmm * srqz
-hhbb: stct * vmnb
-rjvg: wmns / thcf
-wfsh: 8
-qnct: 5
-snbb: lfjc + fdzn
-nnvs: 4
-pfnw: twph + pjqj
-lhtc: vwpd + wmzg
-jnzz: 1
-wdsc: 3
-qvlt: sqqw * zwsv
-fplc: cttw * bznq
-fjdr: zmqq + wppg
-mbbc: 15
-vdtf: dfsq - ttnv
-cwvs: tpvb + ftzs
-wgtm: gvps + vswc
-plgb: rlmf + lvsl
-thtt: tgvc + vjch
-gqrt: hcbn + tqdl
-jvwc: ptvc * qqqd
-vwbh: jclr * nwtg
-vhmg: sdnh / tzwr
-plqq: 4
-jvzj: dzqm + dnwh
-hjvg: bbnp + rdhv
-wfnj: 3
-ncbj: 5
-npnw: shvp - bfnn
-hpfq: 2
-jznp: 2
-gwlg: fdpq * pzcj
-rpzj: gvjn * shmg
-ddlt: rzfd - rhdv
-fgmw: bvgh * jgns
-rhlh: qltm + fcng
-wnjd: 2
-qjsw: 11
-nbhv: 5
-mmld: rqth * jpdr
-wzwv: qmsb * fwss
-dtnv: 2
-mvnl: njzs * wmzd
-gptz: 1
-fdhr: qzgp + zngj
-btfg: pbdn + bbjn
-mzng: 3
-bqwj: fpbw * dqnb
-rtpn: vbcj * zfsc
-jmnb: 2
-cmzg: qbmv + tzhd
-fvzh: rsfn * pptt
-zlqn: 3
-gsmw: 4
-zdsc: gswc + fqfm
-tfnf: 11
-thmq: pncp + hfhh
-vhhv: 5
-gsdc: 3
-rvqs: hgqw - vbnn
-clwz: gqgf * bdwt
-lmbd: mzts + clgn
-qdgc: 3
-fsfc: rjpr - tbrz
-rzbn: sfwz + mlfq
-btlc: 17
-ptvv: 5
-jpcw: 2
-qfqg: 1
-mqwc: nvfp * ctcw
-rqqh: rmtp + shwj
-bllh: 2
-stfs: rcwg + qfrn
-gbwz: 2
-rqpb: 6
-srgb: rvgl + tqsd
-dzls: dsqm * fmlz
-nhpz: 2
-dbjg: czpz + cvpp
-jclr: qzfp * dhcs
-dtfl: 3
-gpdd: 12
-vfbz: 5
-tlmc: 4
-dssm: wnbf + qhfp
-bcdl: 7
-vcnh: 4
-hsrd: 2
-cwpp: lshc + zftl
-mhmj: cfht * prhb
-ptrg: drmb * hgtc
-clgn: tspg - mztm
-gpmd: btfg + pbmh
-whqt: hsdv - gcql
-jsvn: 5
-ghtl: 2
-bvgh: vrwn + fqvt
-zmlg: vljs * ffmn
-pndb: whmz + jlbt
-fgsm: lfcm + tftq
-mzhs: zwrc * hsfd
-sgzq: 1
-qvmw: csjh * mgpm
-rhgj: 5
-twdg: ngmt * mpzv
-pbdp: tfmq + cbwf
-ppnc: 14
-tsdp: lbdc + cpth
-gdrr: 5
-crsm: 4
-vmvs: 3
-tmgh: mfng + pzwp
-mllf: fmgz * tdjs
-tttl: 2
-zlzz: sqmr + gbqh
-tfwz: 4
-nlfv: 1
-mtdp: 7
-sczq: nvhd + hhrn
-drpl: fqpq + gjht
-stzd: 2
-lmjq: 2
-mpgn: 6
-nsmg: 3
-dvhn: 2
-wtmz: mvgg + lbtc
-cppm: 3
-ptvc: 3
-bwzd: 12
-mwrn: 19
-mgcj: fnwv * twjz
-mpzd: 2
-zjlv: fgsm * zzvn
-jqsg: 13
-ltgg: mzng * bbmc
-qfmr: 3
-wqfr: hjvg + fgnl
-smjp: 3
-lzvf: 3
-zlrw: qwwr * swbh
-tfmq: crlh + nnqb
-cgsr: 5
-bhgf: 1
-pslm: 9
-fhsh: 4
-thpf: nvlq / ndwg
-slcp: 2
-wbhn: tnmp * wnqv
-tthb: 1
-vntt: jtft * nrnp
-jgns: dbqn * zjfh
-jqzd: 4
-rvvh: 5
-rlzf: 8
-jmps: 7
-lflj: 2
-llpl: tbcm + cbpg
-dtpz: mbwg * qbdl
-dfnc: 5
-nvbb: vbzj * wqht
-mvhj: 5
-sqtp: bdpl / ffvt
-zsvl: 4
-cnqz: gtsv + cwtz
-vpwf: 15
-pbdn: brgr + sbgl
-glmr: 2
-lnmn: dhph + jnfd
-jstg: 3
-jsht: vshp + jwjt
-ssqv: 2
-qrjr: 11
-pgmj: ndlc + gbjg
-psll: 4
-rmzs: rfdz - hrfb
-cjjg: 3
-crmr: 2
-dzrh: 4
-tsfp: 11
-ddqr: 1
-zchw: 8
-tbrj: 5
-lggp: grws + zsht
-ztqr: 3
-qptj: zblf * mttj
-zjfh: tmpr * slbv
-lmzb: 3
-zgvp: jpqp * rjqm
-ztws: 4
-blpb: 2
-llmm: 8
-rbfr: qzqm * jlvc
-wtcl: tvrg / gztf
-qjhw: mfjs * wtcl
-mcwd: 2
-rjqc: wqwj + vhmg
-mzws: 4
-fzjj: 7
-npfv: 2
-vfpq: 6
-wqjr: 2
-vfzc: 2
-bstt: 13
-brss: 10
-ftqn: nvfc + fzvt
-jqbl: zmwp - cspg
-sdls: nlgd + zdhg
-shlt: njnp + cpnr
-jgpr: 5
-pqjt: pvmn + pmsr
-ngmw: 2
-bcfq: lvhd + gwnz
-vltr: 5
-flcn: spzm * tlls
-hgjd: 4
-qgwh: prrn * mvmg
-jdph: tvpn + pggr
-szwt: 11
-swrv: 4
-lbrb: 2
-wggr: 8
-rmmv: 3
-ddtp: 3
-qgjj: dtnr + djmp
-rmsq: lgvz + gtqb
-lgst: fsgr * zmmq
-dglt: zpmv / gdhp
-gcgz: 3
-jfqs: swjp * wtht
-zdzn: ngsh + vmnz
-nhnm: 1
-pvcn: 9
-bwgn: sjlj + nlsq
-bjbh: 9
-zblf: 17
-rvmr: jqbt * rbbq
-sbpl: lhnz * rqvs
-vvww: dctl * cppm
-ddsh: 4
-cpvt: 4
-sbhv: szqp * rhlh
-mwpc: dtfl + bfjq
-jlvc: 10
-jztv: 15
-bjld: 3
-zppd: 3
-spmr: 5
-nvns: 13
-wthd: 4
-qtst: vmmb * grnb
-vfgd: zwvb * frdg
-blmb: 5
-thrd: 4
-rmmm: mqfn + fzjj
-zvcf: 2
-hszr: 14
-hsnl: 17
-tdbl: 2
-swjp: 8
-rrfg: 4
-wmzv: bnhb * bvhd
-vphp: mtrh * vdtd
-mgmq: 3
-jtzw: lnmn - ltmt
-wwrq: 2
-rgpf: bfvg + qsbl
-vffg: 10
-pmsf: qnct * tcfp
-wppg: 13
-zfqd: 2
-pjqj: 5
-jmsj: lbpq - hsqr
-cbrr: 4
-qvsw: humn - jdlt
-sgjr: 8
-jqbt: 17
-thjq: 4
-rzfd: vphp + njtd
-bhsd: 4
-wbcg: vmng + fljz
-wvqq: 2
-gpjg: vslj * ntrf
-clwr: nmjd / rtbf
-lgss: 5
-wwfp: gfdz * szlb
-ljpn: nwbp * vnnm
-mffg: tsqs + nwsp
-pqvv: 4
-jzrb: sctr - mhts
-mnwv: 6
-mbfw: bhgf + njfq
-pqsw: 8
-fvfj: zcpz * bwzd
-pdsz: 2
-fhrj: 2
-mjtt: ndsp * cdpv
-lphd: 3
-zngj: vhql + blzl
-zwgl: pgfh * llwm
-hbzf: jhml - tjqg
-gqmm: tlmc * tdgc
-wfzs: 3
-hlrh: 2
-rdhl: 10
-fhjf: 16
-psgb: 5
-tzhd: vrbv * qjgv
-ccsd: wqjr * pqsw
-cjfh: rrpf * cntr
-cjnj: 11
-wdhm: ncff - jwld
-dlgb: ltrt + bsgm
-zghq: fzsn / ccgl
-stpg: 4
-fnnt: ctnc + zvwv
-pmpd: vsdt * vwvh
-thfv: 1
-whmj: 2
-zwmb: mzfp + cccn
-dgts: smzc * hdhv
-pjhw: 3
-gtsv: 5
-glqt: 3
-dhbz: 6
-qfhb: npzs * rgvt
-ngmt: 2
-ltpl: 7
-zssd: bbhz + rtdz
-jwsr: 8
-zgvq: hdcq * hdqn
-vmmb: 19
-dznv: 15
-cgph: ptmv + nnhf
-ngpt: vfbz + ppnc
-bbmc: 19
-ffng: ghgz + smjp
-btnv: 18
-cnlh: ntbs * mgwm
-dlbg: pfnq + ghvc
-jrzb: 5
-gdfl: 7
-gppr: 1
-llwz: pnpc - whqp
-dccs: gtgq * dmjw
-rdqq: slcp * ccrj
-ffhg: 2
-sfwz: 12
-bwwh: 13
-mtvn: lzcv + tjnn
-cphm: 3
-rphs: lbgf * sqrp
-zlbg: gnjn + vpwf
-jmbf: 5
-pzdj: 1
-hpmm: 5
-smzc: lfbw + zjjh
-nctn: 2
-hgbl: 5
-czqh: 2
-hmvp: bfvt * rtpp
-rtng: 2
-rsnn: 17
-srjs: wgzq + fngv
-fdtn: 4
-dzjq: 2
-zmzz: 3
-cdfw: pfwf * mmvf
-cmcs: 3
-hdrt: 5
-bdwt: 3
-vffj: 11
-zlvg: wdng * jwzr
-gbtf: 16
-cmfz: fmwl * pqvv
-nfcb: mbbd * bghh
-vzvc: fgmw / thmq
-slfv: qtst + wjsw
-tswt: tsdp + wssb
-bstc: qwfw * rwsl
-pdjq: bzcp + rhgj
-srnr: cgsw * nmpp
-mcsw: 14
-spdf: tzlc * rqbw
-lbwh: 2
-nvhd: ncrp * rlvh
-qpqq: 3
-fchr: 2
-npzs: 2
-tdtf: 2
-tprt: njzc * mqsp
-fqpq: blmb * rtmj
-pmcb: zdsc - szzd
-qmqn: nhdg + dtrz
-dbqn: 3
-sqqw: 2
-zfrn: 2
-glwc: 7
-hfgc: ccrt * znlw
-lbjh: 9
-rvgs: qcbb * rcmw
-hfjh: vnmd * cpvt
-zzbh: fdnb * rtfz
-czpz: 2
-mqpf: ncbl * pnqt
-lwgj: 11
-bmfw: ffsc * wgfg
-tvvt: mqpf * szpz
-bgdp: 4
-sqnd: fgwn * vwtt
-lflz: 11
-pzwr: rssc + lwsl
-dclv: 3
-mbzl: 8
-lvsl: 3
-fmnj: dvgw * gspd
-phjw: 5
-bfnn: 2
-hjwd: rphs + qnmc
-sfdt: 9
-jhgw: wvmh * cgdz
-jrnw: zlvg / bnng
-rtwc: 13
-cfvq: 4
-fzjn: 2
-gqgf: wblt * rltt
-cztg: 7
-gwfw: 14
-humn: 2613
-mqlj: jqsc / bnhc
-dscw: 15
-wjmw: 6
-nmjz: gndv / ngmw
-fdlq: ngpm * hhwm
-nbqb: mrsp * tdtf
-fbls: 2
-mmzz: 7
-bvhd: 2
-mtcs: llnc * svcz
-msnn: hpgq + twmr
-lmls: rrbg * ztws
-mdng: 2
-tpvj: 3
-zgtp: 4
-wnzp: 2
-hzlv: vbqw * pswq
-hcmq: 19
-ncml: 2
-pphl: 5
-zpwh: 4
-ngzz: 3
-jrwq: 3
-hzgt: 2
-vpcf: 17
-dzsd: 13
-sdpw: 3
-lcdq: pfnr + mfvt
-pjtz: mvwm * fndd
-zmqq: zfrn * tfwz
-jpwg: qhdl + dffs
-nhvh: qjsr * sbbn
-rqbw: 3
-zffw: vftf * djrq
-chss: sfff * blpb
-slnn: rpps * wrbn
-swgm: jnjh / jmbb
-cjch: rrpw * hdqb
-pfnr: czpl * fwpw
-bpwp: bqwj + qzmv
-lshc: 12
-zssr: 3
-mghs: 3
-qsdr: 5
-nfgq: 11
-cgwc: qrvp * ddzs
-mgbs: dzsd * lbjh
-vhlp: gwcc * wggn
-bllc: 5
-prng: 5
-tftr: 11
-pwdf: 8
-crlq: pglv + vqhv
-rsst: qzln * btlc
-grzj: 3
-dpcw: 5
-qjpj: 2
-hctl: qqhg * fwhn
-mzvr: 2
-tjbs: 5
-nghj: tmtl * wnqz
-fjns: 2
-lfbw: jscn + lbwj
-hgqb: twnd * qfvq
-nzbg: ptnd * lbzm
-ggfg: 16
-bjnb: vhnd * hjsw
-rtmj: rqcf * cnhw
-tclg: mbdf * vvvm
-rjrw: 3
-wdbz: dhjc + znvw
-dlrt: qsrg + lzjv
-htcq: 2
-jczb: lwtp / lflj
-cntb: mgbs / vpjd
-nzfd: 4
-zzcv: sjhz + rpnl
-htzz: 6
-mjsw: frnc * mcdz
-bfss: gpmd + gvgz
-zrvj: 7
-gqst: 5
-htth: gffs * ctgf
-hdqn: 4
-twmp: pdzw + rcjv
-wnvm: 5
-lbqt: dscn + ggvh
-fnjn: nzqp * fdhw
-jdcg: qnqs + cntj
-sgnw: 7
-vdjz: 2
-dgjf: cbdq * zdzl
-lpcf: 4
-pgdv: rdrt + sbhv
-vsfv: 18
-sbgl: rlzc * zvgm
-gqvr: nbcm + mtfz
-gllf: fqrf + fvvd
-sfhb: 7
-vnmd: nbnq + cjsl
-vwpb: tttl * pfnw
-jgww: vbhd * dhjv
-szpz: mhmj / jmsq
-zvpf: 4
-nvld: 3
-hcqf: 2
-flfs: 2
-pqpc: 2
-pjcv: 2
-mqmc: gntg + fwwr
-scbq: 2
-dvzq: 3
-dtdd: stfs + pvgs
-rqsq: 2
-qqtc: 4
-gjjn: cpgb * sqnd
-tmlh: vpzf + gcsr
-hmzt: 19
-fqfq: phjw + dttt
-cfhs: 2
-snjg: 11
-hgqw: jphc / thss
-jzqs: 2
-rpmt: 7
-lrzg: 14
-jnjh: mpjt * pssw
-hgmw: 1
-rnbw: 2
-mggp: 4
-tglb: rpmt * twdp
-vggz: 3
-vlwn: ffhf * tqvl
-bddf: 2
-pwtg: 12
-zmmq: jbnq + cmcs
-zbtm: wbww + pzgq
-fmpz: 2
-tfqt: 2
-cjwc: dlgb + mwsh
-hsqr: 9
-bjwt: nzzw + vgpq
-vzgs: 2
-rvnl: 3
-rftb: 4
-jdlb: dznr * vhnf
-fhcp: 8
-gcgj: 3
-njtd: zgrg + rzvz
-dmjw: 15
-mhlf: 5
-llnc: 11
-zwvb: 2
-fdvw: 2
-dchq: bmsd * qjvd
-pzgq: gdrr * dhwm
-pctw: 5
-pppq: fhvv + nlfv
-mjnv: spnb * fsrb
-gbdm: snbb + rdzb
-jwld: 1
-mbwg: 3
-lqdg: vfwm + tnpt
-tpzq: djjr - fpcq
-qdwz: 2
-gvgz: svqq + qqtz
-sjjn: qdjl * qjpj
-tlld: fsfc * mqpr
-qnsb: 5
-dpbd: 2
-gjms: vdmp * vsqp
-nmmb: 14
-wntp: wjrf + cqgp
-ztsj: vtqd * lgrf
-nnpz: zlfh * dfdn
-crlt: 3
-wppw: mqbs * swdl
-vnll: fvhc * srnr
-jglg: 16
-nspb: rmvv * hvjv
-jdcf: cjqt * tfqt
-zbpd: ldzf / zjcg
-lwzb: 2
-nlfr: bzsp - zvng
-zcnb: vjrv * bjnb
-sbzf: dgnf * plrl
-bfjq: qnvf * pnlj
-bsbd: nrdn + mrgw
-nzzr: hbpw * hmzt
-zbrq: 2
-cgsw: mtcs * twrc
-vmnz: 7
-mnqf: 2
-qfcn: 12
-vdmp: 7
-fcmp: 13
-dlht: gtbf - jrwq
-zszc: jgww / cdmh
-bprp: 5
-wfbd: 2
-lbpm: nzbg + pssv
-qqhg: nlrq * tftr
-nbzt: qvmw * vfpq
-hbbn: ssfc * sjzs
-ndfv: lfsz / crmf
-rlzv: 4
-qcfp: 3
-tjph: qfmr * smhv
-bsgm: 3
-lgzw: nlqn + jbmp
-rlzc: 3
-lfvb: 5
-bhhv: 3
-ndsp: 3
-zvtq: 2
-sfft: fwmq + qhqq
-wbvh: 8
-mztm: jbzv * nqwp
-wssb: sqdh * cdmt
-ffmn: zrds - htvq
-qsrg: 20
-qzzt: twnf * rvnl
-hhrn: qjwc + jmgs
-lbmq: bblr * qmcw
-vfnc: wvtc + vndn
-vvvm: 5
-nzbz: 3
-lmmq: 5
-mwhp: pdgw / lrzq
-nwlb: 3
-vljq: tpln * fmwr
-lwtp: cfmd - mpgn
-rtgg: njnb + pbqv
-mlqg: jvnc + qwmt
-fbbd: sdls + fplc
-nvjs: lsst - sdhb
-bthv: pqpc * tzjm
-bbhz: dwnn + zpll
-mtwl: 17
-hjnn: 1
-jfng: zchr * pmcb
-fvdj: 3
-nsvw: 10
-dgnf: 3
-tpfr: sdml + fqfv
-rpff: gffb / rfbd
-dztr: 3
-nncs: 11
-tgwn: 3
-jljh: ngzz + lwnq
-qmcw: 7
-vwsl: cvmh * tpdb
-wvtc: 1
-cphz: rhbt + hgmw
-ncrb: tvdp * dmrg
-gpvg: 8
-bjrn: jzcp * tzlp
-qthv: gnwm / bwhh
-nflz: hcqf * tptv
-fcmz: 5
-vsrz: nnnb * qszc
-jdzm: tszp * hsds
-pgnj: 2
-vjhb: gqbn - fjfj
-mjln: 3
-vbwj: 8
-rfbd: 5
-nbsn: jglg * cgsr
-mrsp: ngpt + mdqs
-zcjm: 5
-rfgt: 14
-bpgf: smvs / dcfr
-dttt: bpcl * jzmz
-dsgj: 6
-nnrc: jcgl - vvbq
-qszc: 7
-cfsz: 5
-wpcr: 7
-mpzv: 3
-rccz: qjhw * lhpd
-qqzc: 4
-ncff: 10
-pzlv: 3
-gnlg: 2
-mwpd: tlvq + shlt
-fdzn: bprp * flsl
-twnf: rpzj + rndr
-sqtn: mdfg * dhnc
-tjzz: psgh * gdmn
-zhwr: nbsn + sngp
-tzlc: lngw + mdzw
-ptfp: 3
-gntg: 20
-blzl: qnhm * zdnw
-fdmw: 5
-ffjm: 2
-zlfh: 3
-tgcs: 7
-pdgw: blwt * jmcw
-bzcp: 3
-ccgl: 2
-pjmb: 5
-zctz: 2
-cjqt: 10
-tmtl: 2
-dtbb: fwnj * glqt
-hlps: nmjz * wwrq
-dmrg: 4
-nnqb: vslv - gcgh
-ssjl: pwcl * dzrh
-fjfj: vbcs + bhgq
-wqjb: mzhj * mfcj
-vrbv: 2
-dcww: thbm * tqqs
-nvnh: 5
-wbfv: 3
-ffnt: pljv / swrv
-mvpc: 4
-vhnf: gthp + hsld
-dlvg: sjlf - mcjc
-vshp: llwz * lsjv
-rqrv: 3
-hpcl: hsrd * bllc
-lrrh: 3
-fpcq: zmdq * lrwg
-plvg: 5
-cqjf: 8
-gdcf: bdjw + wzhd
-vpqv: 2
-bfmm: 3
-cfht: gqjj + tsld
-zpll: zmrb * wrcd
-zsdz: 2
-nzzw: pwcp - nlwf
-gspd: 2
-zgmn: 2
-hhtj: 2
-wdgz: dbgb * zznm
-rmzb: 2
-smtr: 19
-rvss: 2
-psgh: mggp + sgnw
-ppcr: 3
-dcnl: ggpc + jsht
-vzsc: plqq + fwvd
-rnsc: hlqc * zgsj
-sbsg: 5
-vgcq: btcw + lfmm
-dzvr: fqmn * cfvq
-gjff: 13
-rzjc: 6
-spzm: 3
-qwlh: 5
-jnfd: bvmg * wpcp
-dzqm: wvns - hwfp
-scjp: dlbg * szzv
-vfwm: pzwr * djdh
-qnvf: 5
-prrg: tmgh / qcfp
-wwrf: vtsl * zhgf
-gglz: grbf * fbls
-chfp: ncwf + lrjh
-zftb: 6
-hgtc: 2
-gplh: 3
-tbhg: 3
-swhz: 2
-ftzs: cpmb * pjjs
-dtwh: zdqj + jzhz
-tbns: bhsd * hhrr
-fqfm: mrbc + wbml
-wnjs: 5
-mmdf: 5
-wmns: zwjn + cllq
-vwtt: 4
-hqrh: 13
-nmjd: wrzg + bjvp
-grnb: 5
-pgqq: 10
-djwm: 2
-nlnb: vngg - vfzc
-zgsj: rrtm + qvvz
-lqsj: 18
-llnm: 13
-vqhv: fpvd * lfth
-tjdm: jzqr * hlzm
-vsvz: 12
-rsfn: 3
-jzsb: zzlj * gqtz
-hslg: mjjh * vdtf
-sjzs: wznb + vwbh
-lwqs: 1
-tspg: ddjp + qgjj
-mqsp: ndnj * nzbz
+-4707
+2246
+4162
+3642
+1168
+3101
+-2569
+5481
+332
+7522
+-5703
+9850
+7631
+7522
+74
+1208
+575
+-9725
+4710
+-2705
+1645
+9935
+-149
+5976
+17
+-7714
+-7936
+-6695
+9502
+-8285
+-729
+6503
+-1033
+3508
+-1788
+7101
+-6060
+9022
+5850
+1568
+-264
+-2881
+4766
+7688
+-3958
+4077
+8481
+5746
+-7570
+9132
+-6175
+739
+-8131
+1512
+1232
+-2249
+5822
+-3371
+4426
+-1367
+-5151
+-9045
+-1076
+-6039
+-643
+1146
+4805
+8717
+-6039
+-6416
+3406
+-1033
+4241
+-6736
+-5736
+8115
+-9070
+9926
+-9433
+-9105
+9315
+-23
+9742
+3657
+3938
+-2928
+-2084
+1588
+-8099
+-371
+97
+9485
+-9446
+-7628
+-9360
+1989
+420
+-509
+-7572
+-9342
+-2120
+11
+-3398
+9685
+-7603
+1689
+4306
+-5298
+-9509
+4
+-4852
+8438
+708
+6673
+8865
+-1259
+-8997
+-3439
+-1361
+9323
+6956
+2749
+8050
+-5122
+6486
+-1804
+-8818
+4466
+-9185
+-89
+5922
+4397
+7651
+3289
+-6423
+-316
+-388
+-5207
+-5641
+-5104
+-9539
+2301
+9233
+3092
+7412
+-1327
+-599
+2734
+-520
+-6404
+1674
+-5440
+8661
+7580
+-1396
+8340
+4632
+-9237
+-8373
+-2641
+-4661
+-8483
+3222
+7133
+1789
+-2154
+89
+1802
+2368
+-1327
+9485
+525
+714
+5098
+4982
+224
+7531
+-8756
+-5536
+2788
+-506
+5682
+6890
+-7358
+-4726
+7921
+-2240
+9485
+4350
+-2385
+-2651
+-7092
+9414
+-1123
+-5233
+-3756
+-804
+-1849
+5044
+2418
+9169
+4375
+-4871
+-7509
+-9847
+-3792
+-4363
+-2537
+8442
+3602
+8127
+-4556
+903
+7129
+5554
+4106
+-6263
+-7765
+-6686
+608
+6054
+-3077
+-4041
+-6076
+5116
+5414
+-388
+8709
+-1624
+-7710
+4393
+-8996
+-9733
+358
+6701
+-4305
+-5979
+2311
+7615
+1239
+-4679
+-4175
+6110
+3623
+2719
+-889
+-9342
+-1912
+-3085
+-4077
+1071
+-1938
+6546
+-2727
+-9605
+9137
+3722
+-8913
+4397
+7665
+-4888
+740
+-4419
+-9115
+-1615
+4138
+-5334
+3621
+-8858
+4912
+-802
+-896
+5181
+-334
+-7920
+7240
+2448
+-5518
+-2042
+1422
+3655
+-1069
+1886
+-9610
+-971
+5715
+8150
+-8145
+-4255
+-3740
+4107
+-3718
+139
+-955
+7984
+890
+5978
+5953
+-3051
+9646
+-9232
+-971
+4327
+4887
+-5325
+-6298
+2943
+-2160
+-6619
+-6491
+-9631
+420
+-827
+2431
+-4875
+-5122
+-6711
+6982
+-359
+-8285
+-4700
+7018
+662
+420
+1070
+-7189
+1210
+9187
+2258
+-896
+-6448
+-6079
+4088
+-7410
+-4206
+-6718
+4042
+5781
+1079
+9934
+-9428
+2139
+-7098
+4434
+9233
+-9976
+-9310
+8166
+-517
+8396
+-8562
+-7146
+-4807
+-8162
+6491
+5332
+-7894
+-9733
+-9923
+2982
+-7040
+-7219
+5215
+1215
+3875
+715
+9174
+9467
+9935
+-1984
+-6943
+-4569
+4146
+-1993
+-7274
+6906
+-2438
+-1448
+-7730
+-9696
+1137
+9011
+2636
+2113
+5335
+4025
+6132
+-6048
+6023
+-2385
+6042
+-3159
+-5755
+-1331
+-2059
+-5209
+-7765
+7184
+7296
+-5909
+-7844
+7216
+9816
+-8510
+-1630
+7282
+-9566
+-9196
+8964
+-4384
+-6222
+-7497
+-627
+-5815
+-4761
+7827
+2218
+1092
+8378
+-7112
+6897
+4421
+2042
+-7065
+6626
+-4441
+6331
+-5717
+9959
+-3769
+6736
+-7216
+7235
+435
+-6679
+-3606
+6310
+-4893
+2437
+-4140
+2883
+6388
+8653
+9529
+7437
+881
+7679
+2734
+-1647
+-503
+6292
+-506
+-3751
+481
+2624
+8848
+2128
+6879
+9550
+-9353
+689
+1089
+6744
+-6718
+-7522
+3277
+3320
+-7429
+5818
+6252
+-7835
+8462
+4354
+7561
+8147
+-533
+-3645
+7960
+-4580
+2505
+-302
+-7092
+1613
+-9661
+-8612
+8198
+3660
+7394
+9233
+-9179
+8442
+-3854
+454
+-1580
+-742
+2295
+-3434
+-8418
+7634
+4700
+886
+8351
+-8273
+-3481
+7848
+-2114
+648
+9819
+-1043
+-8229
+-1887
+-2624
+-7728
+1453
+-5996
+-7300
+-1863
+-4314
+-8051
+5574
+7859
+-8520
+3485
+-5245
+-5855
+-7397
+9553
+4621
+-6549
+-6492
+-2120
+3132
+-9657
+4872
+-7758
+-7106
+-9599
+-8476
+-2422
+8863
+-1361
+3663
+-3918
+7300
+8946
+1078
+1001
+-187
+-5977
+-6259
+8550
+-4804
+-4867
+6192
+3783
+-6679
+-3467
+-5290
+7169
+7182
+6673
+-4967
+-8051
+-6719
+9147
+-5824
+2259
+1454
+-8261
+3320
+4700
+6913
+5832
+8744
+-4157
+9108
+-1454
+-3741
+-1223
+3629
+-1835
+8945
+9134
+-8002
+6767
+4350
+-7724
+-9395
+6192
+9108
+-3773
+5779
+1588
+-8862
+-9098
+-8699
+9828
+9539
+-3580
+-8225
+-6749
+-2621
+-5595
+4367
+-2125
+-2862
+-7695
+-1226
+-8910
+6099
+1407
+43
+1093
+1703
+-1825
+-8598
+-5261
+9341
+1250
+-7743
+9230
+9538
+6041
+1456
+-5488
+-2067
+7897
+-9701
+1839
+1645
+-6516
+-9715
+6712
+-9179
+-1825
+-8756
+5447
+6374
+6329
+6856
+6684
+8017
+881
+-8223
+1494
+-6665
+9669
+-8345
+-2766
+6949
+7266
+6744
+-6648
+6153
+3986
+269
+-877
+-6972
+723
+-7706
+8215
+-6634
+7575
+-1040
+1943
+-7495
+-3059
+5974
+4345
+-3481
+3594
+7933
+-5382
+-2770
+-2353
+-5220
+8331
+-2552
+-2506
+-7844
+-9202
+2874
+-6223
+-1479
+-9925
+8687
+-1147
+-2858
+-3683
+1036
+-3440
+-1740
+456
+1262
+5536
+-4061
+-7993
+-2710
+3741
+8500
+5932
+9233
+-5801
+2203
+2029
+-6650
+-6732
+9491
+115
+-263
+-3036
+5394
+-587
+4934
+3540
+-228
+-4735
+32
+6875
+-929
+-8919
+-9792
+-9903
+-285
+-4627
+-97
+-5836
+-8733
+2108
+7836
+5311
+7968
+7133
+1692
+-3713
+-7113
+4003
+-1860
+3767
+7828
+1490
+8454
+2289
+-6248
+4587
+3839
+6057
+-4370
+-603
+-8729
+5431
+-8268
+-8326
+140
+9396
+-5423
+8351
+8108
+5763
+-8102
+-4191
+500
+2882
+-360
+-97
+6874
+3760
+-5527
+7132
+-7723
+-7113
+-5419
+-9987
+7877
+1674
+-5410
+-8096
+8667
+-6696
+-1859
+-5703
+-2698
+9935
+-2529
+9058
+6401
+-5772
+9019
+3528
+501
+-5290
+-3214
+1847
+8610
+7943
+-764
+-3619
+7432
+-2555
+3872
+7776
+8714
+-9089
+-9155
+2610
+7136
+-9446
+-4951
+-6980
+8363
+-8233
+912
+-6569
+-1085
+2375
+-4964
+-8739
+-1405
+8465
+-2116
+8357
+-9013
+7212
+-2526
+9053
+-3606
+-4761
+6811
+36
+5063
+8350
+6310
+-1728
+-1695
+-5397
+3045
+7788
+-4328
+4234
+-89
+-9147
+5926
+-1489
+2233
+2686
+-6509
+5071
+2224
+97
+1196
+-4490
+4426
+-4890
+1599
+4257
+-9597
+1462
+4707
+3617
+-8420
+-9597
+-9184
+9518
+-5703
+-8777
+-3142
+9779
+7611
+2709
+139
+-5218
+-851
+5072
+7375
+3969
+-5819
+-1459
+-5619
+5768
+-540
+-6403
+5732
+-854
+8836
+1405
+2227
+-3467
+8714
+1454
+-2845
+-7624
+8369
+4296
+5530
+-3547
+3105
+-3949
+4823
+4935
+-8719
+-6410
+-2715
+-7256
+-6056
+4707
+7419
+-2046
+3720
+8479
+-2321
+-7971
+-9398
+-3470
+5506
+874
+-6216
+2238
+2900
+1039
+9529
+3074
+-3711
+-3112
+-4323
+5665
+-8409
+-9481
+-8882
+8982
+-7419
+1923
+-2210
+209
+7470
+4722
+-4845
+875
+989
+-7043
+5261
+8121
+-9183
+-8583
+5298
+7300
+-7605
+5617
+5825
+-5867
+-2535
+66
+-1150
+3778
+-4778
+-8385
+2139
+-335
+-9064
+6340
+1156
+8053
+-7300
+-5854
+-8401
+-6824
+6783
+4268
+-2377
+-7523
+2356
+2686
+-1147
+-4922
+-535
+-4388
+-3644
+5832
+9548
+-6223
+2794
+6767
+5036
+-1223
+-5080
+2490
+1125
+1196
+-4079
+448
+8012
+5754
+1138
+9463
+-9960
+-3734
+-3180
+-3127
+794
+-7609
+482
+-7733
+-7602
+9633
+1772
+-2171
+-1818
+1275
+-5143
+8622
+-1611
+3049
+-3234
+-3842
+-6821
+-7442
+1775
+5455
+9026
+8993
+5651
+-1231
+4276
+1775
+-9501
+2382
+-4391
+42
+4752
+5310
+2731
+749
+1678
+9298
+-873
+-3557
+8815
+3320
+1394
+3963
+-9735
+-2046
+9419
+-1254
+-6861
+4960
+-5825
+-8162
+8366
+372
+-1973
+-9833
+-5545
+7884
+6534
+5607
+2888
+-2900
+4470
+3608
+-2881
+2002
+-7690
+-8669
+1273
+2171
+5142
+-4335
+-3629
+849
+-3741
+-1271
+-1572
+-7249
+9926
+-5040
+350
+3056
+1512
+-3837
+8871
+-1083
+1133
+-5480
+-6641
+3049
+5505
+-2451
+-2058
+-1661
+1634
+411
+7966
+-6047
+-9586
+5538
+-5921
+4783
+5877
+-4910
+-7410
+4595
+319
+-6263
+1062
+6369
+7538
+-8131
+-7523
+274
+8622
+-2930
+1005
+-1890
+-4827
+9318
+-4199
+9719
+-7146
+5954
+-7950
+4877
+6468
+-111
+7347
+5547
+-4880
+-170
+4345
+-6588
+-5427
+4825
+9240
+6788
+6981
+-6644
+5256
+-3180
+-4363
+-4349
+-2669
+662
+4042
+-7605
+-66
+8413
+-2336
+5160
+-1870
+-4421
+-2341
+-1068
+7511
+-5636
+-8147
+-8466
+-8209
+361
+4470
+-8065
+-4156
+2436
+3839
+4027
+-8352
+6417
+-26
+5298
+-6363
+5761
+949
+-8549
+-3822
+-312
+6688
+5091
+-4201
+6139
+5157
+-742
+-6465
+-1660
+3649
+2900
+2233
+-8528
+-4642
+-1534
+-2555
+-2328
+8190
+-6002
+-3764
+8551
+-1645
+5788
+4468
+-2829
+6565
+5247
+-5296
+3579
+1961
+3130
+-4340
+-2882
+1149
+-8691
+5835
+-6775
+-5093
+-2240
+4769
+5798
+-9194
+-4853
+-6311
+8552
+6240
+7491
+3472
+8889
+3603
+-1443
+8115
+-1069
+6555
+-1443
+7075
+-6385
+5835
+-7728
+-4066
+-1481
+9723
+-8421
+2562
+-6223
+-8397
+-1474
+3696
+3875
+-704
+-2642
+3874
+-1020
+-2092
+-4662
+-177
+9084
+-1616
+-1510
+-4103
+-1155
+-9951
+5646
+8367
+-8581
+-4060
+-8729
+-9471
+-2752
+-5150
+4821
+-4858
+-2509
+-8427
+-7395
+-628
+-5326
+-13
+-3756
+-4592
+5382
+9789
+-9291
+1423
+-675
+475
+4848
+-6079
+-5955
+-9201
+-6225
+-214
+1077
+-7868
+4918
+-6162
+-2438
+-289
+-2226
+1218
+4393
+-3690
+225
+8422
+9987
+109
+-5805
+-9337
+-179
+-1223
+9276
+-3472
+7113
+-5631
+4274
+9463
+7532
+-919
+2624
+9187
+-7643
+-8728
+6550
+-5207
+4465
+2260
+3822
+3603
+8323
+-3428
+-5678
+-4569
+8815
+-6222
+-3459
+6350
+-5343
+5561
+5845
+533
+-8054
+3742
+3967
+6536
+4074
+191
+-4765
+6310
+4873
+-9965
+955
+-768
+-4740
+8783
+-3507
+-4761
+4003
+1022
+6293
+967
+-1795
+6386
+7331
+-7174
+2415
+-7910
+-4419
+-4244
+9262
+-3845
+-1274
+4337
+-6792
+-8159
+-2007
+7228
+-1157
+-6060
+-8034
+-2091
+4692
+8332
+7673
+-9184
+8585
+-8639
+-5143
+8335
+0
+-2315
+-273
+6302
+-675
+8768
+-9006
+-6991
+-556
+7769
+-4932
+6684
+-4908
+-7387
+-436
+8748
+1168
+-9178
+-1261
+3192
+-3383
+-2076
+5321
+7331
+-5325
+-6577
+7133
+6638
+6200
+-4584
+-3674
+-4206
+4563
+6918
+-89
+-2980
+-7828
+-4700
+-725
+-5527
+-7240
+-5349
+-2555
+-8200
+1190
+-9331
+8721
+-5563
+-2001
+-7642
+1091
+-4442
+-3053
+-6884
+-6441
+-9773
+-1063
+7884
+-3898
+-1580
+840
+1881
+-6448
+420
+-9082
+4533
+890
+5055
+5463
+2020
+-438
+9863
+5951
+4242
+-144
+-4453
+-6361
+-2515
+-5052
+-7014
+9885
+9986
+5566
+5050
+-4256
+3974
+6758
+7433
+-4169
+-6958
+6638
+-9800
+-5160
+-7468
+3649
+8442
+5065
+-778
+1382
+-6645
+-3792
+2261
+8136
+-8137
+1247
+-4985
+-6987
+-3816
+-8783
+-6410
+-6562
+3303
+2436
+1358
+7131
+-9550
+7712
+-622
+-2381
+-1991
+1490
+-9322
+6255
+3969
+5979
+-4325
+-1776
+-1777
+-5753
+7910
+7155
+-8541
+-9113
+4938
+-4997
+-2404
+7685
+-9546
+-5536
+-5659
+6447
+7202
+1752
+-3408
+30
+-2492
+4438
+-7686
+-825
+-1146
+9968
+-7315
+-176
+-2713
+5759
+-2995
+-9031
+4781
+-693
+7698
+3832
+1092
+-949
+3913
+2632
+-4340
+-5109
+306
+4367
+2770
+4002
+2960
+-1083
+-9882
+-9952
+-7733
+-7734
+-9768
+-4109
+2414
+-8026
+-5097
+1074
+-8790
+-7643
+4483
+6689
+4524
+8559
+1724
+5064
+9935
+4349
+-7783
+-8086
+-7719
+-673
+8017
+-7959
+-6079
+6200
+6542
+-5563
+1422
+7960
+1548
+-7003
+9985
+8651
+7801
+9870
+9084
+-6144
+-6516
+7068
+9870
+-5153
+6849
+7686
+-1709
+-921
+-8744
+2235
+9817
+-408
+-6140
+-269
+1467
+-7080
+-2502
+6176
+6430
+-6549
+-6110
+-3322
+144
+9205
+3196
+6276
+-728
+5491
+-3313
+-6540
+421
+-1686
+7844
+-6423
+-7023
+-7967
+8400
+5301
+-7518
+6032
+5629
+9445
+6042
+-3462
+9512
+-8611
+-186
+-4582
+-1563
+-302
+-6038
+1069
+8708
+6682
+6777
+3074
+-7789
+-7
+7762
+-3189
+114
+-1631
+4061
+-7335
+-7939
+9255
+1104
+-8218
+-8466
+3566
+-7256
+571
+4421
+-7970
+8161
+479
+-2506
+5917
+949
+-5569
+7603
+-8804
+-2206
+-5865
+-3503
+-54
+-3479
+8422
+4369
+-7714
+-701
+6987
+1728
+7187
+-5237
+8664
+6693
+-3467
+-2635
+4948
+-9892
+3678
+-7419
+-6831
+-3100
+-8649
+-804
+1584
+8638
+-6981
+1592
+-1094
+-8331
+1564
+9502
+-1854
+-4590
+3090
+8748
+-7129
+6693
+-559
+7927
+4753
+-747
+-2485
+-6811
+1923
+7493
+-5977
+4727
+2335
+-6824
+-6516
+-5317
+-7808
+4760
+-6343
+-8673
+-2160
+-758
+-6407
+-4388
+-1037
+8023
+4402
+6816
+-7069
+-1686
+-3018
+7253
+-8069
+7532
+1885
+-7146
+-4324
+-568
+-4132
+-1141
+2417
+-2898
+3072
+9117
+3634
+330
+-8667
+-9701
+-768
+5549
+5047
+9053
+-6099
+-7417
+-7868
+-4066
+7228
+4345
+-7993
+4984
+-2562
+7430
+-2118
+2346
+9276
+-6118
+-4518
+-747
+1211
+-9471
+-5984
+-1108
+8848
+-3958
+4857
+-8636
+-4589
+-4764
+4551
+-7910
+1412
+-9178
+-8294
+-6200
+9329
+-1531
+7791
+8464
+3697
+5640
+-407
+2368
+4421
+-6918
+5247
+7984
+9048
+2669
+7056
+-3227
+8706
+8422
+3792
+5765
+-3630
+656
+-2790
+-7890
+-851
+7358
+-2859
+-4303
+-2675
+-2211
+9275
+6331
+6143
+-5325
+9302
+1304
+-4822
+-6623
+-8182
+4728
+4869
+-3820
+485
+-2838
+-412
+-7730
+-9472
+-3739
+32
+2615
+-9013
+-825
+-6733
+-7748
+-9469
+775
+-4443
+-3593
+-121
+5909
+8527
+1092
+3399
+-5230
+-8233
+-5911
+-7725
+-5865
+-5438
+-4169
+-6749
+8909
+-1987
+-5778
+7712
+-2469
+9682
+-8444
+224
+-5008
+5807
+-5414
+4877
+1236
+-1746
+-5935
+8778
+-5370
+-4697
+-8659
+-1490
+3231
+-6619
+2018
+187
+1859
+1505
+3416
+-1270
+-747
+-6085
+9203
+-7581
+7083
+739
+9481
+4101
+5337
+4203
+-2298
+-2847
+-9806
+-2207
+-66
+-2592
+837
+-1939
+-5683
+-6060
+3642
+-9228
+8829
+-9818
+-8482
+4770
+-5778
+4810
+-2661
+9404
+-3675
+8990
+-3210
+-6903
+-25
+-5564
+-256
+5574
+-5553
+8708
+1318
+2219
+-6528
+-1531
+-2469
+-750
+2042
+7058
+-4635
+2127
+-3425
+-4979
+-8230
+-1900
+-1429
+-2928
+4113
+-2479
+7258
+-7300
+-7733
+-5755
+-9422
+-9976
+-3381
+4242
+4969
+-2079
+-7016
+-9546
+-3013
+6538
+7018
+211
+-8756
+-9423
+-5245
+3093
+-1178
+3712
+1340
+-5766
+-416
+2144
+8504
+4323
+-4746
+5726
+486
+-9776
+4909
+5947
+7961
+4578
+5
+-371
+1196
+6902
+-6285
+6952
+-5737
+-8487
+7459
+3065
+1638
+-467
+321
+7522
+4880
+-5410
+-7966
+-2869
+8378
+1454
+2179
+1453
+-2540
+-9890
+929
+-1924
+-4550
+-4043
+379
+-7730
+3152
+-1487
+-6465
+1160
+11
+-2485
+-7998
+6704
+3566
+-8367
+4756
+3999
+-7804
+-8695
+-3189
+-9556
+8928
+-6645
+9368
+-2999
+7131
+6877
+-264
+-4340
+-242
+4075
+2
+-6631
+-2258
+-5865
+6846
+662
+6952
+-1582
+-8699
+8042
+-5737
+-1513
+-8669
+-2610
+-8457
+2476
+-1825
+2040
+5247
+-2110
+3999
+66
+-9446
+9640
+-3545
+-3253
+-3715
+-1531
+6481
+-1978
+2794
+-5122
+478
+-2453
+4513
+-8914
+-8601
+-8614
+-1378
+-3947
+-9430
+-4847
+6981
+-699
+-6488
+-4967
+-1199
+-6144
+-5440
+1053
+8605
+-3112
+8920
+-366
+8263
+7601
+-556
+-5449
+9900
+6609
+1678
+2382
+4051
+3280
+8828
+6331
+8513
+8631
+-3734
+3143
+6882
+-289
+-8285
+1130
+8783
+2669
+-2084
+881
+8972
+-7706
+-8328
+5498
+7330
+4649
+3157
+5894
+-2713
+9240
+1383
+8301
+9087
+8277
+5411
+5901
+-5273
+4179
+-9339
+1897
+9046
+-8433
+-2651
+6171
+2308
+6590
+4732
+-2503
+8547
+-9261
+-1377
+5001
+-1582
+6016
+-1532
+-6176
+8296
+6344
+4054
+1343
+-1383
+-8005
+695
+-4056
+3342
+-9903
+-6395
+440
+1583
+-1456
+7133
+-1205
+5283
+-7509
+-8518
+-730
+6684
+2913
+-1125
+7647
+7769
+9874
+361
+739
+4622
+6121
+-9574
+334
+881
+-3839
+5353
+-7723
+-4561
+-9376
+5843
+5171
+-568
+-5351
+8928
+5718
+974
+9882
+9935
+-2752
+-4169
+-6963
+5319
+4919
+-3674
+-2751
+-1915
+7210
+3428
+-7034
+8369
+-2917
+4536
+-3603
+-9606
+1036
+3294
+6163
+-6048
+-9931
+6454
+5172
+-9987
+3364
+1171
+6550
+-8108
+-2179
+9720
+-768
+7086
+-372
+-2495
+-2457
+-9779
+9412
+-8917
+8243
+9087
+3767
+-5228
+-3759
+-8992
+-7494
+-5536
+7734
+3450
+5731
+8398
+97
+-1538
+-4871
+6739
+-7580
+1765
+2462
+9685
+-8723
+5005
+6268
+3685
+-5415
+-8690
+-1430
+-1946
+-7307
+4268
+-3624
+-5407
+2784
+-1543
+7459
+-7296
+3775
+-6079
+1719
+-3034
+-2610
+-4611
+2234
+-7225
+2435
+-1946
+890
+-6749
+6935
+6869
+-9208
+7603
+1490
+2021
+-6484
+-7195
+-2829
+8245
+8191
+-1157
+-7497
+-6505
+-6410
+54
+2480
+-5979
+8978
+5235
+3696
+-5588
+3735
+8954
+-9074
+2454
+-3428
+905
+-5824
+-7910
+-5897
+-312
+-8276
+4368
+9368
+-5641
+-9773
+6546
+-517
+-8190
+9053
+7889
+5974
+1660
+3862
+-884
+8854
+-9255
+-9682
+-1753
+1755
+8385
+-7552
+-1595
+6330
+5976
+-3234
+5118
+-7341
+8184
+-2920
+3217
+6853
+1474
+7769
+-6343
+-6685
+881
+4619
+9610
+-7385
+8295
+-7489
+-8919
+9110
+8277
+1852
+6612
+-9037
+2062
+-5209
+8527
+-4329
+1402
+-4699
+-9271
+-3745
+7113
+-9807
+-8717
+-6753
+-6850
+7200
+2571
+4758
+-555
+5021
+-9201
+-4237
+-788
+-6583
+4195
+-1133
+-4587
+-3820
+8150
+3544
+-8766
+-1665
+-6551
+7737
+5482
+4061
+9372
+3631
+-3249
+-8882
+-9472
+4889
+-3846
+-5081
+6976
+5007
+1073
+8451
+2628
+9048
+3609
+-1843
+6351
+-4890
+7018
+-4798
+2474
+9324
+4088
+-5334
+-9539
+-3235
+7178
+-5631
+-7982
+-3443
+320
+3164
+5877
+-8296
+930
+-9726
+278
+8438
+5536
+-6619
+7031
+-7478
+-9981
+-7194
+2571
+-6792
+-7719
+1692
+-4240
+7258
+8595
+2311
+-8657
+-6688
+8253
+5845
+5651
+6292
+-9468
+-4641
+4769
+-8427
+3839
+3634
+6780
+-5118
+-7966
+-9108
+3863
+-9344
+-7967
+-1676
+9684
+8044
+-7949
+-65
+-1076
+-3550
+5985
+1422
+-2457
+-6144
+-4862
+4203
+-5147
+1553
+8785
+7921
+4398
+6470
+-6466
+-4701
+-8575
+-303
+-1437
+4413
+5270
+-3036
+-8624
+9679
+3334
+-9608
+-5741
+8918
+-1529
+8324
+-3354
+9329
+3146
+-5099
+-1144
+-2909
+-3322
+7847
+-9361
+109
+-7281
+-5867
+-4388
+6952
+-7870
+-2789
+-9507
+-488
+5170
+-8664
+-9539
+-6903
+-8492
+4932
+-5728
+1275
+-217
+-3723
+-3082
+8980
+-3535
+9051
+3911
+9048
+9384
+1569
+4560
+217
+378
+-7390
+1423
+-4634
+-873
+-4781
+-2752
+316
+-9423
+-5352
+-8836
+-4329
+-5273
+-6980
+6331
+-4765
+2380
+8012
+-8997
+-6861
+9375
+1765
+-8934
+-1893
+9275
+-470
+3117
+-4363
+3970
+746
+4136
+3735
+4072
+770
+5322
+-7189
+-9204
+-2735
+895
+3295
+-1209
+-4796
+2295
+6134
+-1150
+-745
+-1801
+-287
+-9597
+-7028
+9942
+4722
+-8328
+-9707
+-6661
+-5771
+-2512
+5443
+8742
+8018
+-2999
+8696
+8691
+8749
+-9906
+-3144
+9900
+8492
+-639
+-4156
+440
+6201
+741
+1467
+3391
+6719
+6139
+5839
+5138
+-6076
+-3044
+-4853
+-9422
+9117
+1137
+-5742
+4229
+6912
+-6387
+-6450
+1777
+-9406
+1349
+-3715
+-988
+365
+2216
+8814
+9705
+6099
+1548
+7927
+1645
+3073
+-9430
+9935
+1665
+7088
+4991
+-4103
+-9271
+5832
+4932
+-569
+-3030
+-9034
+1584
+3858
+7048
+6431
+4445
+8213
+-3340
+-5647
+-1550
+5392
+-4330
+-1791
+1703
+-7565
+4246
+-1226
+1093
+-8186
+4862
+912
+3269
+-8271
+1839
+4026
+8624
+-2558
+-3629
+8749
+-3666
+-1226
+5843
+-8612
+-8665
+-5014
+2943
+5836
+-7281
+4026
+-7967
+2089
+9469
+-7385
+-5965
+2628
+-1487
+-7429
+-3875
+7088
+-698
+-4028
+-7224
+-7358
+2964
+9691
+-5949
+3023
+5816
+7528
+-4237
+-1157
+3685
+-8911
+-4825
+4821
+860
+-889
+-8427
+-1320
+-4349
+3320
+9569
+-2060
+6054
+-9587
+6775
+5350
+-1456
+5363
+4995
+-4418
+-4488
+-9518
+-6815
+-4700
+-2440
+-8891
+-3965
+-6650
+-4858
+4482
+4323
+8177
+-5263
+-335
+-1278
+3986
+6992
+7971
+-6692
+-2680
+-5735
+-7159
+515
+-4761
+3010
+-9702
+4088
+-9747
+2185
+1380
+982
+6137
+-4765
+-4377
+9954
+-2298
+2113
+717
+-411
+-9058
+-5032
+5349
+-5661
+6137
+-917
+-9905
+-6395
+-6679
+7000
+-8295
+8114
+2185
+2260
+9871
+6223
+6976
+-1538
+17
+-6782
+-4965
+1805
+7171
+4701
+-4722
+-8665
+39
+-5555
+-8502
+6025
+8046
+-8777
+5765
+4408
+-5375
+4203
+7101
+-5565
+2218
+6223
+5506
+-3082
+4986
+9463
+6675
+5722
+-1709
+7874
+6237
+1868
+-1170
+6517
+2862
+-1756
+-9446
+113
+8228
+5129
+-825
+7267
+290
+-6469
+5364
+860
+9502
+6789
+-4472
+7475
+-4914
+-7414
+-804
+-654
+-4389
+-1017
+3858
+9301
+-5973
+-8999
+1584
+4546
+-8261
+4877
+-3523
+-7765
+-3353
+-7161
+6540
+4992
+4541
+-1396
+-7544
+2000
+5978
+-7207
+-1718
+-1511
+2559
+-1911
+-5646
+8865
+-6109
+794
+-6370
+7079
+-9037
+6812
+-253
+-7902
+4345
+1468
+1512
+3900
+-3023
+-9373
+5160
+-6165
+7528
+7940
+-8868
+-9433
+7966
+-1278
+-547
+8184
+-6880
+5036
+5850
+2636
+907
+-1878
+-4698
+-8865
+6374
+-7199
+-9178
+-2077
+7539
+-3018
+-5271
+-8421
+-3228
+-4779
+3320
+-4294
+-8190
+6682
+160
+-451
+-4990
+-5326
+-7572
+-4109
+2093
+5932
+-1314
+97
+5797
+3767
+528
+-1492
+4725
+-65
+-8999
+-3979
+-9048
+1613
+-2125
+6201
+-5143
+-971
+-461
+-8806
+-8468
+-4109
+-3879
+8617
+-2992
+1411
+8837
+7652
+-7966
+-7360
+-9119
+-4129
+-5741
+8946
+-2422
+-9616
+-8345
+-7655
+-4936
+4909
+-8439
+-8161
+-6781
+-2840
+5445
+708
+9329
+-9657
+-9800
+2439
+-587
+3389
+225
+8429
+507
+9682
+-5742
+-1643
+9359
+7074
+4806
+9290
+-2608
+-2042
+1442
+-9071
+-5911
+9396
+5832
+9539
+-4330
+-418
+8302
+4820
+-3792
+646
+4126
+-6462
+2781
+6484
+-4168
+2640
+-1630
+-8942
+8114
+-6184
+-4961
+4392
+-7657
+-5587
+6737
+-9006
+8365
+4350
+-8517
+-7642
+-8420
+7784
+-4660
+5194
+5021
+9893
+-7967
+-5835
+-8924
+3986
+2581
+1045
+-4244
+-7802
+-6742
+608
+-8062
+8564
+467
+-1911
+-3541
+-3042
+-3186
+-9847
+7156
+9469
+8427
+3005
+6641
+7169
+1503
+4359
+7759
+-6110
+7647
+1077
+-4657
+-2037
+7730
+-47
+1943
+6730
+-253
+9842
+-2365
+-6009
+-8936
+-2485
+4664
+-2307
+-8505
+-9152
+-3100
+-9134
+-4108
+4837
+-7042
+9491
+-8487
+2745
+-4560
+-4228
+1320
+-7135
+-5999
+3895
+9968
+8662
+-6831
+9333
+6709
+-22
+5089
+1966
+-3618
+-3203
+-3136
+9881
+-8155
+8829
+-3502
+6644
+-1458
+8091
+3840
+2259
+-6722
+3093
+5825
+-411
+-896
+6943
+7603
+9146
+-7034
+7661
+2192
+-2010
+-6696
+7074
+4433
+-4145
+8457
+-3767
+-2305
+2596
+1560
+6770
+4470
+-7971
+7432
+4814
+9149
+8060
+2760
+9084
+-7941
+9748
+9400
+1333
+4442
+-5276
+-2161
+-3059
+-4139
+-3168
+3845
+2525
+-3534
+4248
+-1573
+-7410
+-1788
+-1304
+1454
+1613
+-699
+4771
+-454
+-4784
+2379
+1871
+2786
+-9963
+-597
+-3922
+7491
+-6653
+-5476
+7522
+-3624
+-3210
+-4717
+-3756
+-6686
+1196
+-6750
+8253
+-3114
+-6847
+-7716
+1528
+6827
+6140
+-4850
+-527
+-9269
+-8612
+9301
+9329
+-4878
+379
+4723
+-5833
+3838
+6897
+2227
+-9001
+8221
+-4468
+-8265
+8686
+6553
+-8285
+-4544
+1810
+9414
+-5822
+1575
+4925
+9669
+-388
+-4698
+-6176
+-7868
+-428
+2178
+-6696
+-9823
+-2242
+-4109
+6025
+8557
+-9853
+6647
+-3361
+-3118
+7634
+3804
+-1211
+-6375
+-3524
+2347
+5187
+-9184
+5993
+3186
+-8205
+-9062
+-2656
+1474
+1380
+-4643
+6910
+-2698
+-2146
+-8081
+1196
+8400
+-7195
+-3551
+-8162
+-718
+3951
+-2404
+-4691
+-5602
+9414
+1699
+-2743
+5643
+-5889
+9586
+1196
+-8853
+4369
+6419
+-1407
+-5520
+-889
+-9726
+-2395
+4061
+7337
+9278
+-5582
+4068
+1722
+-704
+-9723
+189
+-7195
+-1233
+5309
+8829
+-3521
+8741
+7238
+-9248
+3195
+-6642
+-8144
+-1673
+9163
+-9326
+2933
+7000
+-2926
+6505
+9831
+5843
+8243
+-5358
+-3400
+2116
+8977
+8018
+7101
+5412
+6200
+4233
+-4739
+-3431
+-9527
+1039
+4752
+-180
+5187
+8497
+-7479
+-9681
+-4954
+6809
+-568
+7898
+2324
+101
+-4190
+-642
+9240
+1674
+9831
+-6367
+1568
+-9800
+7239
+726
+6775
+6919
+-698
+-5139
+-8533
+7688
+7259
+-6378
+-4234
+7148
+60
+8184
+6386
+2452
+-6365
+-8298
+9278
+5723
+7223
+6386
+2916
+1950
+4703
+8517
+-4807
+-1994
+7079
+8503
+-699
+-317
+9807
+8023
+9894
+8378
+1837
+-106
+-8209
+9308
+9748
+-8583
+3762
+4710
+8227
+505
+-5678
+-7241
+-1341
+3151
+-6248
+-273
+-1448
+-2868
+2242
+7768
+4107
+-7638
+3132
+-2303
+-8091
+4839
+-2670
+5135
+-4093
+775
+5986
+7446
+-3376
+5771
+8061
+-1088
+-696
+5825
+-1538
+3945
+-6903
+-1084
+-1994
+5656
+7149
+6436
+-4670
+4815
+1304
+-2301
+9547
+8870
+7921
+-5570
+-4858
+525
+2934
+5910
+4061
+-189
+-6441
+-2468
+-7127
+-27
+-3371
+-710
+2756
+8042
+-3285
+5122
+-7725
+-1456
+9726
+852
+5797
+-6140
+-6869
+-4643
+9571
+9488
+-7800
+-3547
+5574
+1804
+-7846
+1248
+4834
+422
+5595
+66
+-1239
+-2618
+-7479
+5632
+4072
+-3725
+-6223
+7208
+852
+5298
+-1137
+1212
+-613
+6550
+4807
+-2984
+9350
+7772
+-9775
+-1155
+4139
+-9236
+1359
+1186
+9861
+4874
+-9878
+-1580
+2750
+-2284
+2155
+-296
+-5710
+-3595
+-6383
+2701
+-3979
+-4334
+-4900
+-7214
+-1231
+-2067
+6510
+8326
+-3666
+6310
+7897
+-3816
+8479
+-4485
+-7839
+-5741
+2696
+-5407
+-8075
+6340
+-5020
+1850
+-3100
+5619
+8691
+-1320
+2984
+7266
+3102
+9928
+-6970
+6949
+-8748
+202
+217
+2359
+-1608
+-4563
+6955
+109
+-6776
+-7744
+8184
+-1900
+9160
+8551
+-7017
+-7428
+32
+7116
+8331
+-9441
+-8773
+6615
+6909
+9097
+-6520
+6303
+9132
+-6083
+-2498
+-3725
+6981
+-4947
+-8840
+-4357
+-9468
+-2054
+-4638
+-4110
+4829
+9790
+5629
+5633
+-5609
+8706
+4127
+-7256
+4234
+2784
+527
+-9939
+-3738
+1056
+-3120
+-6263
+-1223
+-4095
+1747
+-314
+-274
+-8322
+-8456
+-5778
+-1508
+-793
+-3375
+2942
+5377
+3723
+8451
+8732
+-3265
+3391
+2144
+-5668
+-9835
+897
+-5097
+9305
+420
+3863
+1142
+-1325
+1548
+-4954
+-7249
+-591
+3339
+7182
+-778
+479
+9022
+-75
+-8840
+-2208
+-9201
+-8756
+-8154
+4333
+456
+-6617
+6494
+5376
+5926
+-3751
+6386
+2233
+-2404
+423
+1104
+-7814
+9742
+2332
+2297
+6329
+4624
+2573
+4912
+5619
+-4671
+2756
+9032
+5188
+-2702
+9807
+8367
+-7902
+9053
+-3265
+7210
+-2172
+-5203
+4921
+-3119
+-4635
+-5971
+-126
+-9204
+3926
+-4968
+6247
+-8695
+4753
+-1327
+4203
+-8336
+-7888
+-7146
+-9597
+9149
+8848
+1674
+4513
+2541
+1423
+888
+987
+1341
+-2264
+1592
+1495
+-5402
+6853
+-3751
+-8384
+5247
+5098
+-3471
+2624
+6129
+-6837
+929
+-671
+-6722
+-371
+-58
+-5609
+-7090
+9305
+2943
+9058
+7867
+7769
+-6556
+3523
+6862
+-2955
+5226
+-9740
+-8663
+212
+8294
+7931
+-9313
+5112
+-3754
+6366
+-4858
+-5645
+7609
+5817
+7261
+5277
+-601
+5561
+-1147
+6182
+-5586
+2399
+2295
+-9443
+3986
+7113
+-1286
+1104
+9348
+-454
+4470
+6879
+-7040
+9742
+5304
+5518
+-8554
+1462
+-4021
+-5717
+-3655
+9807
+7879
+7698
+-735
+-5109
+-3055
+-877
+-3955
+-1675
+-2488
+2444
+6744
+-7903
+-7008
+7687
+9702
+-4490
+5549
+1964
+2382
+-4862
+6247
+6551
+9719
+-4234
+-1068
+-8403
+5892
+-4093
+5561
+2253
+-454
+9935
+-616
+-6039
+-7341
+-127
+-1555
+1036
+855
+-5665
+-9449
+-5977
+6134
+-151
+-7364
+-8598
+-1825
+6134
+-7478
+-9672
+-3890
+-5220
+6239
+-254
+-6660
+-3887
+-8567
+4375
+8454
+9375
+-8026
+844
+3011
+-747
+808
+-8936
+4932
+-6417
+-3187
+-1190
+4073
+-6417
+4740
+5848
+9819
+7921
+-898
+-3416
+2788
+-1361
+1513
+8333
+-4077
+4375
+5072
+6782
+1473
+3523
+-8992
+8444
+-5717
+6565
+9646
+-6915
+8829
+-4273
+-2395
+-782
+1394
+-3820
+-2445
+-7839
+9167
+9160
+-1332
+3027
+-2395
+-8142
+-1470
+6990
+4349
+-3370
+3364
+588
+-263
+4198
+1414
+555
+1852
+-4214
+2883
+7133
+-2898
+7183
+5247
+458
+6557
+-6409
+-9723
+-7460
+8489
+-7784
+844
+-9559
+8396
+-1835
+595
+-4968
+-7198
+-1861
+2808
+-7637
+-4004
+-4804
+-1172
+2661
+6134
+8871
+6943
+-6441
+5097
+-2067
+-5526
+-4032
+6767
+6098
+4002
+8366
+-6756
+1652
+-3313
+1476
+5060
+5301
+-1398
+5157
+2325
+4646
+-9478
+-4792
+-627
+-4496
+7686
+4397
+4948
+-698
+-6246
+-7906
+5535
+9424
+-685
+-4021
+-9715
+-7744
+196
+-3159
+4265
+-768
+-1904
+-6225
+-2641
+-1455
+8622
+-9574
+7509
+-6189
+8018
+4797
+9742
+8911
+-2321
+-1083
+-6831
+5972
+-6943
+-1794
+-8992
+3971
+-9543
+-2097
+-4066
+-1718
+-7572
+-4922
+6032
+2361
+-9833
+-2707
+-8062
+-8694
+6528
+6853
+9968
+-547
+7511
+4710
+3495
+-6936
+-3691
+-2512
+4734
+-8487
+-7172
+-5741
+-1377
+-8673
+6401
+9879
+-5465
+1912
+-8669
+-8229
+-2078
+7054
+-6325
+8875
+9469
+1966
+-971
+-3135
+5772
+5012
+-2751
+1418
+8245
+-5143
+6716
+199
+-3100
+-1320
+4275
+4935
+-7399
+-275
+8444
+-9866
+-5259
+-4722
+4402
+2883
+-4029
+9481
+-5265
+-7927
+-8252
+2323
+-2204
+-5949
+-854
+8139
+-6915
+7689
+-918
+9682
+9495
+4576
+-8757
+479
+-5078
+-1595
+-151
+6380
+-4741
+3241
+5259
+8996
+5274
+6848
+-7552
+-4266
+-7292
+513
+1775
+1492
+-1076
+-2679
+-2569
+5530
+-2072
+-4699
+-9348
+-1661
+-2217
+4276
+4806
+607
+-9800
+-7899
+-8905
+9132
+-2893
+-694
+-7911
+8766
+-1775
+-5685
+-7934
+-2648
+919
+-2191
+9274
+-9296
+-5591
+5482
+-7101
+-144
+3364
+9789
+9807
+-2568
+-6434
+4967
+-8744
+256
+-2424
+-1381
+478
+-7272
+-5641
+7028
+2994
+-7522
+-331
+-1099
+238
+1847
+-4975
+-1904
+-8131
+5143
+3646
+8646
+-5788
+5683
+7093
+2415
+3278
+-7539
+-2586
+-8047
+-7138
+2479
+-6606
+4266
+8871
+3803
+1927
+9871
+4837
+4664
+-5451
+-2893
+-8083
+-1778
+6467
+-9461
+8444
+9290
+-3208
+-2040
+6967
+2723
+1402
+5530
+-3751
+-5415
+-228
+-1700
+1160
+8783
+9983
+-7060
+585
+8631
+-4491
+8326
+-7295
+-7994
+-3026
+-7467
+-7007
+-4004
+6673
+-121
+-9069
+-196
+-4228
+708
+5390
+-5010
+8513
+3509
+-314
+-6316
+9329
+7651
+278
+-7243
+-4792
+6433
+-8563
+7699
+-272
+-699
+-4691
+2664
+6452
+-3353
+7093
+4664
+-5747
+690
+-1367
+-2191
+-5407
+3128
+3882
+5311
+-558
+6007
+4075
+4559
+-7810
+-388
+6268
+-802
+-4975
+-4633
+-3610
+4092
+7182
+4043
+2144
+-3768
+9613
+6480
+-2882
+-6936
+4667
+1152
+7850
+-3233
+-4442
+8978
+588
+3974
+3404
+-9249
+7847
+-842
+-273
+-1526
+7235
+9913
+4123
+2171
+7502
+7841
+5307
+-7208
+6096
+-8879
+1410
+7788
+-4231
+9651
+5060
+7623
+115
+-9335
+-2920
+-3848
+-2821
+-7057
+2833
+-8885
+477
+-1144
+7971
+7557
+-8352
+-3630
+1219
+-7888
+7730
+5519
+6039
+-5784
+1335
+2477
+3078
+-3792
+-1946
+-5256
+-6054
+6505
+5148
+-2171
+-8034
+-3125
+6631
+8552
+-4053
+-8566
+7470
+-2909
+4890
+-7091
+-4651
+1765
+8414
+-7723
+2814
+1040
+-2965
+1490
+6207
+2882
+8150
+3840
+-9087
+-191
+2399
+-9642
+4394
+-3127
+3895
+5509
+4431
+4060
+4838
+-8166
+-5476
+-3843
+3010
+-3345
+6016
+-2392
+4231
+-1354
+-2016
+9550
+-9998
+-1777
+-8235
+2864
+-1742
+-7026
+-269
+2346
+-3144
+515
+3661
+-5940
+-7034
+5001
+-3881
+8879
+383
+7570
+-3395
+-1068
+-990
+2367
+-2762
+2991
+949
+-2984
+-6478
+-8359
+-9446
+685
+8310
+4139
+-2160
+-8044
+-1580
+-7094
+6303
+477
+-7491
+6517
+-9773
+5214
+1703
+-8894
+9063
+-3639
+-1311
+-4884
+9517
+-1926
+743
+7174
+9807
+-7570
+4854
+-9446
+-5500
+-7034
+6036
+-5261
+6882
+1239
+-3487
+-5097
+9754
+7542
+-8910
+3390
+-2928
+2819
+4469
+-7190
+3341
+4952
+1856
+3868
+1584
+4866
+-5810
+8597
+7911
+1394
+134
+-4871
+-4351
+8994
+-6984
+-4443
+-6039
+-1746
+883
+2843
+-2017
+-1043
+5384
+-2381
+-9871
+-7744
+-5074
+411
+-8626
+2080
+-2421
+43
+2807
+1284
+2049
+-1712
+-4173
+-1063
+-2459
+4877
+-1543
+8062
+5319
+-7509
+7624
+-7439
+3694
+8062
+5487
+8527
+1748
+2835
+-8190
+1125
+-9361
+-919
+-6080
+2005
+-8702
+8625
+-1705
+6879
+3760
+2417
+-832
+-5357
+293
+-7544
+27
+32
+-842
+-3581
+-5542
+-2223
+-5772
+-4358
+-1121
+-3565
+5514
+7498
+-1067
+7383
+-7733
+5455
+9904
+4003
+8508
+-2570
+6309
+-9228
+7598
+-9413
+7769
+9453
+-8273
+5975
+9899
+-8840
+-1487
+7987
+9623
+-2215
+-4279
+-5081
+3209
+-945
+6875
+-9413
+-271
+-8996
+-4254
+-5129
+-2819
+5043
+8108
+-8593
+4350
+1468
+-1997
+-4489
+2128
+-9681
+-2926
+3231
+2608
+4487
+3298
+-5081
+5926
+4760
+896
+-2118
+2581
+633
+3822
+4161
+2360
+374
+1888
+7323
+527
+-3072
+-4121
+4409
+-5302
+-6448
+-6259
+114
+5236
+-6617
+-5418
+-4470
+-9195
+2672
+2073
+7683
+-2158
+4348
+9051
+9117
+-3239
+7268
+-4068
+1454
+8844
+-6060
+8708
+-1926
+-4456
+-1848
+-5583
+8722
+-4491
+-4489
+-4861
+5786
+728
+-5179
+-4228
+-2469
+1121
+8045
+881
+-2537
+6953
+-4899
+-1854
+3605
+5059
+-7300
+612
+1335
+5517
+5109
+6042
+-1451
+8742
+-6320
+5561
+-1072
+-6487
+-1802
+4986
+3482
+-718
+-4004
+4709
+-409
+-3091
+-8943
+7296
+3822
+-4127
+-4782
+-9162
+-1861
+-778
+-4760
+-3471
+7859
+3472
+6302
+3911
+-8473
+-331
+-5515
+-7243
+-4899
+-2438
+4491
+7048
+-7690
+9794
+-3648
+-9243
+8468
+-888
+5131
+5803
+5181
+-4488
+2838
+6123
+-4127
+5393
+-1058
+-5019
+5482
+-1644
+-1406
+4167
+-6054
+-155
+-3580
+-8227
+-9631
+704
+-3615
+-284
+-4994
+3860
+5142
+-6369
+-4698
+-6445
+-9020
+-3127
+186
+6920
+7068
+3075
+-4853
+7528
+7851
+-5766
+1819
+-9509
+-5896
+-5829
+-5626
+-1716
+-2111
+-1848
+-2519
+-1227
+-5020
+-4341
+434
+6909
+-2404
+5715
+-8285
+2762
+151
+8353
+-7967
+7528
+9757
+-2120
+-8336
+-6618
+3609
+5609
+4739
+5783
+1092
+4139
+-211
+8660
+-8260
+9968
+3074
+-66
+-5855
+-9543
+154
+1369
+-5402
+-1183
+9463
+7459
+-3639
+-4529
+2456
+-8821
+1100
+-6042
+2636
+9985
+-714
+4409
+3062
+-6539
+3322
+5574
+8923
+-7500
+9063
+-971
+7211
+-1552
+-5752
+217
+8422
+-813
+-1619
+-7644
+8035
+3579
+5519
+3438
+-6980
+3697
+2998
+-5264
+1692
+9463
+731
+-1201
+4814
+-9433
+8815
+-2193
+2342
+5361
+8706
+4756
+-4206
+3151
+-2154
+158
+-6297
+5098
+2596
+-5971
+-6022
+-4033
+-6505
+4215
+-2084
+-9244
+3685
+2870
+-8581
+-9705
+630
+-460
+8617
+-8661
+-6012
+-8182
+525
+-7080
+4121
+-929
+3843
+8213
+2782
+-7135
+3608
+-8020
+9669
+525
+-671
+6882
+-2451
+-874
+-2753
+-8927
+-6326
+7627
+874
+7600
+-3201
+6040
+3074
+9887
+-696
+8619
+-7572
+-2672
+9117
+-381
+9021
+-5527
+-4468
+-4852
+5659
+8231
+9406
+7719
+24
+-746
+2762
+5779
+-4182
+3575
+2144
+7075
+-1470
+8810
+-1713
+4941
+2715
+-8849
+-6433
+-1283
+-5234
+-4252
+3903
+395
+6954
+7212
+6303
+-2682
+-6408
+-1487
+5129
+7929
+-912
+-2535
+8617
+-4612
+9569
+5980
+-4882
+-4700
+-2165
+2503
+5926
+8096
+520
+-8631
+5331
+-6720
+-7500
+-5124
+4949
+9871
+5951
+-5865
+3723
+-2469
+-9501
+7242
+7181
+-4498
+-7219
+-2770
+8775
+-4587
+9502
+1799
+-510
+-6633
+4976
+6289
+7927
+-5784
+8553
+-546
+3076
+9512
+3322
+5405
+7238
+-1470
+8686
+-7579
+-6223
+4224
+3192
+-9147
+-3709
+1400
+1040
+-8729
+-1662
+-1341
+-4725
+7535
+9529
+-3059
+-4060
+-4997
+8366
+8419
+-3960
+-9478
+8638
+-912
+4428
+-6708
+145
+2715
+3815
+7850
+7155
+-5700
+-228
+-722
+3009
+-6292
+3302
+7611
+3630
+-4303
+7378
+7955
+7678
+-3374
+-5958
+1383
+-8669
+-191
+-123
+151
+-6779
+-4491
+7796
+6744
+6359
+2324
+-7146
+3822
+-1801
+-2399
+2664
+-7347
+-9203
+-677
+6693
+4070
+8855
+-3492
+3173
+-5022
+-5771
+949
+-8702
+6712
+7831
+3843
+-9105
+-3865
+-7998
+-1987

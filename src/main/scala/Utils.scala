@@ -14,9 +14,8 @@ object Utils:
   val al = "[a-zA-Z]".r
 
   // modulo using the sign of the divisor
-  extension (x: Int)
-    def +%(y: Int) =
-      Math.floorMod(x, y)
+  extension (x: Int) def +%(y: Int) = Math.floorMod(x, y)
+  extension (x: Long) def +%(y: Long): Int = Math.floorMod(x, y).toInt
 
   extension [T, U](p: (T, U))
     def bimap(f: T => U, g: U => T) = (f(p._1), g(p._2))
